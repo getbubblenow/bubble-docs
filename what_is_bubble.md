@@ -11,10 +11,10 @@ Using a VPN gives you some privacy protection against snooping ISPs, mobile carr
 When you launch your Bubble, it is yours and yours alone. No traffic from other Bubble users will use your Bubble.  When you launch a Bubble through bubblev.com, one of the first steps we take is throwing away the key.
 
 ## Your Bubble is Open Source
-We have published all of our source code under an open source license to provide additional trust. If you really don't trust that we actually throw away the key, you are free to launch your own Bubble without using our service. Open source makes this possible.
+We have published all of our source code under an open source license to provide additional trust and transparency. If you really don't trust that we actually throw away the key, you are free to launch your own Bubble without using our service. Open source makes this possible.
 
 ## Your Bubble can Modify Network Traffic
-Bubble implements a pattern known as a "man-in-the-middle attack". In common parlance, this type of attack is associated with nefarious actors who want to spy on your encrypted network traffic or trick you into thinking you are one a legitimate website (for example your bank) when in fact you are sending all of your traffic to them. With Bubble, we turn this on its head. You are "attacking" yourself, with the end goal of improving your Internet experience. This allows for many exciting possibilities:
+Bubble implements a pattern known as a "man-in-the-middle attack". In common parlance, this type of attack is associated with nefarious actors who want to spy on your encrypted network traffic or trick you into thinking you are on a legitimate website (for example your bank) when in fact you are sending all of your traffic to them. With Bubble, we turn this on its head. You are "attacking" yourself, with the end goal of improving your Internet experience. This allows for many exciting possibilities:
 
 ### Block Advertising
 Your Bubble can strip out ads so that your browser doesn't have to. You'll use less data on your data plan, and your pages will load faster. Also, traditional ad blockers only work in web browsers, so they can't block ads shown in native mobile applications. Bubble will block all ads, no matter who made the request.
@@ -48,8 +48,8 @@ Ad Block, Malware Block, Social Media Inbox and the other wonderful features des
 
 ### Bubble Promises:
   * We will never show you advertising.
-  * We will never sell or rent your data to anyone.
-  * We will never sell or rent access to your data, via any means, to anyone.
+  * We will never sell, rent, or give away your data to anyone, except when compelled by a lawful court order.
+  * We will never sell, rent, or grant access to your data, via any means, to anyone, except when compelled by a lawful court order.
   * We will store as little data about you as we can; only the minimum that is absolutely required in order to use our service.
   * The only information we track on your Bubble is the fact that it is running, or not running.
   * The only information we track on our main website is information directly related to your account, so we can contact you if there is a problem. We do not use cookies.
