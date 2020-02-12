@@ -10,16 +10,17 @@ We hold these truths to be self-evident, that all humans are created equal, that
 Bubble is a new kind of VPN, loaded with features to give YOU more control over your Internet experience.
 
 ## The Age of Surveillance Capitalism is upon us.
-Big Technology has armed itself with Big Data, Machine Learning, Behavioral Analytics, and myriad other technologies; all designed to maximize profits by watching your every move, knowing your most intimate thoughts, and selling that data on the open market to the highest bidder. We find this incredibly creepy and ultimately unhealthy for society. In a comparison between these tech giants and end users, you cannot even call it "David versus Goliath" -- at least David had a slingshot! Let Bubble be your slingshot.
+Big Technology has armed itself with Big Data, Machine Learning, Behavioral Analytics, and myriad other technologies; all designed to maximize profits by watching your every move, knowing your most intimate thoughts, and selling that data on the open market to the highest bidder. We find this incredibly creepy and ultimately unhealthy for society. In the battle between regular humans and the tech behemoths, you cannot even call it "David versus Goliath" -- at least David had a slingshot! Let Bubble be your slingshot.
 
 ## The Age of Information Overload is upon us.
-The signal-to-noise ratio is getting worse and worse. Separating truth from fiction has become increasingly difficult; this difficulty is intentionally exacerbated by those who stand to profit from it. For many, truth has become opinion, and opinion has become truth. We find this destructive of rational discourse and ultimately unhealthy for society.
+The signal-to-noise ratio has gone from bad to worse to the hellscape that is online media today. Separating truth from fiction has become increasingly difficult; this difficulty is intentionally exacerbated by those who stand to profit from it. For many, truth has become opinion, and opinion has become truth. We find this destructive of rational discourse and ultimately unhealthy for society.
 
 ----
 
+Bubble stands firmly against Surveillance Capitalism, against Information Overload, and against everything that is destructive of a healthy democratic society and our individual liberties.
+
 Bubble stands firmly in favor of leveling the playing-field with the Technology Goliaths. Bubble seeks to give everyone the same kinds of powers to protect themselves and their families that Big Technology is using against us and our society.
 
-Bubble stands firmly against Surveillance Capitalism, against Information Overload, and against everything that is destructive of a healthy democratic society and our individual liberties.
 
 #### Join Bubble and retake control of your Internet.
 
