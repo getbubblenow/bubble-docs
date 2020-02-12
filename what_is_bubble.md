@@ -5,7 +5,7 @@ Bubble is a new way to use the Internet that enhances your online privacy, helps
 ## Your Bubble is a Virtual Private Network (VPN)
 When your phone or computer is connected to a VPN, all of its network traffic will go through the VPN. The connection between your device and the VPN is encrypted, so that none of the network providers in between (for example your home Internet provider or your mobile carrier) can see anything. To them, it's all encrypted bits. On the flipside, the online services and websites you use will not know where you are - they will see your traffic as coming from the VPN, which can be located anywhere in the world.
 
-Using a VPN gives you some privacy protection against snooping ISPs, mobile carriers and online services. The downside is that your VPN provider can now see everything. Your VPN also likely operates a shared system, meaning that many other VPN users are using the same systems you are for their Internet. If one VPN customer can manage to "break in" to the VPN, they could see the traffic for all the VPN users on it.
+Using a VPN gives you some privacy protection against snooping ISPs, mobile carriers and online services. The downside is that you are now placing a lot of trust in your VPN provider, who now carries all of your traffic. Your VPN provider also likely operates a shared "multi-tenant" system, meaning that many other VPN users are sharing the same computer systems you are for their Internet. If one VPN customer, or a malicious actor, breaches the VPN's security, they'd see the traffic for all the VPN users on it.
 
 ## Your Bubble is Yours Alone
 When you launch your Bubble, it is yours and yours alone. No traffic from other Bubble users will use your Bubble.  When you launch a Bubble through bubblev.com, one of the first steps we take is throwing away the key.
@@ -17,7 +17,7 @@ We have published all of our source code under an open source license to provide
 Bubble implements a pattern known as a "man-in-the-middle attack". In common parlance, this type of attack is associated with nefarious actors who want to spy on your encrypted network traffic or trick you into thinking you are on a legitimate website (for example your bank) when in fact you are sending all of your traffic to them. With Bubble, we turn this on its head. You are "attacking" yourself, with the end goal of improving your Internet experience. This allows for many exciting possibilities:
 
 ### Block Advertising
-Your Bubble can strip out ads so that your browser doesn't have to. You'll use less data on your data plan, and your pages will load faster. Also, traditional ad blockers only work in web browsers, so they can't block ads shown in native mobile applications. Bubble will block all ads, no matter who made the request.
+Your Bubble can strip out ads so that your browser doesn't have to. You'll use less data on your data plan, and your pages will load faster. Also, traditional ad blockers only work in web browsers, so they can't block ads shown in native mobile applications. Bubble can block all ads, even within native mobile apps and other unconventional, non-browser environments.
 
 ### Block Malware and Scams
 Let's say you accidentally click on a link that looks legitimate, but is actually from a scammer. Without Bubble, you see a web page that looks legitimate (for example your online banking site), but is actually run by the scammer. You might not notice any differences, but your Bubble will. With Bubble, instead of taking you to the scammer's website, you'll see a "Scam Detected" web page and your Bubble won't even load the scammer's web site.
@@ -27,6 +27,8 @@ Your mobile devices are very chatty. Even when you are not using them, your devi
 
 ### Block Abusive Users
 Many websites and online services offer no way to block users. On services that do allow you to block users, it is usually easy for the people you've blocked to know that they've been blocked. Bubble allows you to block users across many different services, and when users are blocked on Bubble, the blocked user has no way of knowing; to them, they're not blocked; but you'll never see them again.
+
+## Bubble Roadmap
 
 ### Selective Blocking
 Maybe you don't want to completely block a user, because they are a cherished member of your extended family. But for whatever reason they are constantly ranting about some topic. You want to see their posts, just not anything about this topic. You can block by keyword, or block all posts that link to some news websites, or all news websites.
@@ -40,6 +42,9 @@ When you "like" or "reply" from your Social Media Inbox, you can choose whether 
 
 ### Auto-Play Blocking
 Many websites have content that automatically starts playing and making noise at you, when you're just trying to browse. Many people find Netflix "previews" annoying and distracting, and there is no way to turn off this "feature". With Bubble, auto-play is disabled. Your Bubble simply won't let the auto-play audio/video traffic through to you.
+
+### Media Review
+Save every single video and audio asset that travels over your network to a folder that you can review, replay, add to media library, add a block rule, and much more.
 
 ### App Store
 Ad Block, Malware Block, Social Media Inbox and the other wonderful features described above are packaged as "Bubble Apps" that come built-in to the Bubble platform. Bubble will also open an App Store where third-party developers can offer their own value-added extensions to the Bubble platform. All apps will be sandboxed and will not be able to send any data outside your Bubble. We are waiting to release the App Store until such sandboxing can be properly audited. All apps listed in the official Bubble App Store will be audited and certified by Bubble; but you can connect your Bubble to other App Stores, which may offer different guarantees (or none at all!)
