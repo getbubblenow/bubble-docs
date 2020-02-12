@@ -29,7 +29,7 @@ Your mobile devices are very chatty. Even when you are not using them, your devi
 Many websites and online services offer no way to block users. On services that do allow you to block users, it is usually easy for the people you've blocked to know that they've been blocked. Bubble allows you to block users across many different services, and when users are blocked on Bubble, the blocked user has no way of knowing; to them, they're not blocked; but you'll never see them again.
 
 ## Bubble Roadmap
-The following apps and features are in development and will be rolling out over the next several months:
+The following apps and features are in development and will be released over the next several months:
 
 ### Selective Blocking
 Maybe you don't want to completely block a user, because they are a cherished member of your extended family. But for whatever reason they are constantly ranting about some topic. You want to see their posts, just not anything about this topic. You can block by keyword, or block all posts that link to some news websites, or all news websites.
