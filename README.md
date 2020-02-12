@@ -19,7 +19,7 @@ The signal-to-noise ratio has gone from bad to worse to the hellscape that is on
 
 Bubble stands firmly against Surveillance Capitalism, against Information Overload, and against everything that is destructive of a healthy democratic society and our individual liberties.
 
-Bubble stands firmly in favor of leveling the playing-field with the Technology Goliaths. Bubble seeks to give everyone the same kinds of powers to protect themselves and their families that Big Technology is using against us and our society.
+Bubble stands firmly in favor of leveling the playing-field with the Technology Goliaths. Bubble stands for giving regular humans the power to protect themselves and their families against the Surveillance Technology being used against us and our society.
 
 
 #### Join Bubble and retake control of your Internet.
