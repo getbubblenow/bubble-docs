@@ -50,3 +50,12 @@ Proper handling of non-chunked responses that must be filtered. Tons of filterin
 
 ## 0.7.1 -- 2020 Feb 11
 User-Agent blocking, app icons.
+
+## 0.7.2 -- 2020 Feb 15
+Promotional credits
+
+## 0.8.0 -- 2020 Feb 20
+Track TOS/legal versions, add per-plan account limits, error/metric reporting
+
+## 0.9.0 -- 2020 Feb 26
+Add sub-user support, replace UI sidebar with dashboard/icons, add standard file headers
