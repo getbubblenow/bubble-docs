@@ -59,3 +59,6 @@ Track TOS/legal versions, add per-plan account limits, error/metric reporting
 
 ## 0.9.0 -- 2020 Feb 26
 Add sub-user support, replace UI sidebar with dashboard/icons, add standard file headers
+
+## 0.9.1 -- 2020 Feb 26
+Fill in missing standard file headers
