@@ -62,3 +62,6 @@ Add sub-user support, replace UI sidebar with dashboard/icons, add standard file
 
 ## 0.9.1 -- 2020 Feb 26
 Fill in missing standard file headers
+
+## 0.9.2 -- 2020 Feb 26
+Add legal info pages, software license info
