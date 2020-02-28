@@ -65,3 +65,6 @@ Fill in missing standard file headers
 
 ## 0.9.2 -- 2020 Feb 26
 Add legal info pages, software license info
+
+## 0.9.3 -- 2020 Feb 27
+Update license link
