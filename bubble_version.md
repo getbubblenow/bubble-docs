@@ -77,3 +77,6 @@ Forgot password now works with TOTP auth
 
 ## 0.9.6 -- 2020 Feb 28
 Proper app object creation for new accounts
+
+## 0.9.7 -- 2020 Feb 28
+Multifactor auth improvements
