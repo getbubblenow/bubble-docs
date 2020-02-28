@@ -74,3 +74,6 @@ Render messages before delivery via delegate
 
 ## 0.9.5 -- 2020 Feb 28
 Forgot password now works with TOTP auth
+
+## 0.9.6 -- 2020 Feb 28
+Proper app object creation for new accounts
