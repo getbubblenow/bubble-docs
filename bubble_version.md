@@ -68,3 +68,6 @@ Add legal info pages, software license info
 
 ## 0.9.3 -- 2020 Feb 27
 Update license link
+
+## 0.9.4 -- 2020 Feb 28
+Render messages before delivery via delegate
