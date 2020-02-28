@@ -71,3 +71,6 @@ Update license link
 
 ## 0.9.4 -- 2020 Feb 28
 Render messages before delivery via delegate
+
+## 0.9.5 -- 2020 Feb 28
+Forgot password now works with TOTP auth
