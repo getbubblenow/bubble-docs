@@ -86,3 +86,6 @@ Add TLS passthrough app to accommodate certificate-pinned apps
 
 ## 0.9.9 -- 2020 Mar 10
 Passthru app now working properly, dnscrypt-proxy caches lookups in redis
+
+## 0.9.10 -- 2020 Mar 10
+Auto-detect TLS handshake failures, enable passthru. Add passthru check based on IP
