@@ -80,3 +80,9 @@ Proper app object creation for new accounts
 
 ## 0.9.7 -- 2020 Feb 28
 Multifactor auth improvements
+
+## 0.9.8 -- 2020 Mar 5
+Add TLS passthrough app to accommodate certificate-pinned apps
+
+## 0.9.9 -- 2020 Mar 10
+Passthru app now working properly, dnscrypt-proxy caches lookups in redis
