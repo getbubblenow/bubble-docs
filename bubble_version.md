@@ -89,3 +89,6 @@ Passthru app now working properly, dnscrypt-proxy caches lookups in redis
 
 ## 0.9.10 -- 2020 Mar 10
 Auto-detect TLS handshake failures, enable passthru. Add passthru check based on IP
+
+## 0.9.11 -- 2020 Mar 11
+Add deviceType, fix PostgreSQL restart error
