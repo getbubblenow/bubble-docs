@@ -92,3 +92,6 @@ Auto-detect TLS handshake failures, enable passthru. Add passthru check based on
 
 ## 0.9.11 -- 2020 Mar 11
 Add deviceType, fix PostgreSQL restart error
+
+## 0.9.12 -- 2020 Mar 12
+Only copy app objects for enabled plan apps. Add TlsPassthru app to all plans. Add confirm password error messages.
