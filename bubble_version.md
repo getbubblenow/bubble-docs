@@ -95,3 +95,6 @@ Add deviceType, fix PostgreSQL restart error
 
 ## 0.9.12 -- 2020 Mar 12
 Only copy app objects for enabled plan apps. Add TlsPassthru app to all plans. Add confirm password error messages.
+
+## 0.9.13 -- 2020 Mar 17
+Re-fetch sage key if it has expired. Fix referer-based URL blocks. Install dnscrypt-proxy config file
