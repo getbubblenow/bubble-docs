@@ -101,3 +101,6 @@ Re-fetch sage key if it has expired. Fix referer-based URL blocks. Install dnscr
 
 ## 0.9.14 -- 2020 Mar 20
 Simplified checkout and onboarding workflows
+
+## 0.9.15 -- 2020 Mar 20
+Add device setup instructions
