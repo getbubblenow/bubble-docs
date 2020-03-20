@@ -1,6 +1,6 @@
 ### In the "Download Certificate" section of the Devices screen, click or tap on `Apple`
 
- * Note: You must use Safari. If you're using Firefox or Chrome, switch to Safari before downloading the certificate.
+ * Note: You must use Safari to download your Bubble certificate. If you're using Firefox or Chrome, switch to Safari before downloading the certificate.
  * You'll see a pop-up that says "This website is trying to download a configuration profile. Do you want to allow this?"
  * Tap "Allow"
  * You'll now see a pop-up titled "Profile Downloaded" with the message "Review the profile in Settings app if you want to install it." Tap the Close button on this pop-up.
