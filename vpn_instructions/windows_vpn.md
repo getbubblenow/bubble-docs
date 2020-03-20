@@ -9,7 +9,7 @@
   * Click or tap "Show VPN connetion info" for your new Windows device. Click the button that reads "Download vpn.conf file"
   * Save the vpn.conf file to your computer.
   * Open the Wireguard application if it is not already open.
-  * Click the "Import tunnel(s) from file" button
+  * Click the "Import tunnel(s) from file" button, and select the vpn.conf file that you downloaded.
   * Click the "Activate" button to connect to the VPN.
-  * If a "Set Network Location" dialog appears, click on "Public network", then click the "Close" button
+  * If a "Set Network Location" dialog appears, click on "Public network", then click the "Close" button.
   * Congratulations! You are now connected to your Bubble's VPN!
