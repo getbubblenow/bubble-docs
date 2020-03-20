@@ -98,3 +98,6 @@ Only copy app objects for enabled plan apps. Add TlsPassthru app to all plans. A
 
 ## 0.9.13 -- 2020 Mar 17
 Re-fetch sage key if it has expired. Fix referer-based URL blocks. Install dnscrypt-proxy config file
+
+## 0.9.14 -- 2020 Mar 20
+Simplified checkout and onboarding workflows
