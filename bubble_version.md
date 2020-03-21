@@ -104,3 +104,6 @@ Simplified checkout and onboarding workflows
 
 ## 0.9.15 -- 2020 Mar 20
 Add device setup instructions
+
+## 0.9.16 -- 2020 Mar 20
+Enforce case insensitivity on accounts, plans, networks and nodes
