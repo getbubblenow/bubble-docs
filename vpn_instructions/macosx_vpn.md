@@ -7,4 +7,6 @@
   * Open the WireGuard application if it is not already open.
   * Click the "Import tunnel(s) from file" button, and select the vpn.conf file that you downloaded.
   * Click the "Activate" button to connect to the VPN.
+  * Click the "Edit" button
+  * In the list of checkboxes listed in "On-Demand", check both checkboxes "Ethernet" and "Wi-Fi", and click "Save"
   * Congratulations! You are now connected to your Bubble's VPN!
