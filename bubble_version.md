@@ -107,3 +107,6 @@ Add device setup instructions
 
 ## 0.9.16 -- 2020 Mar 20
 Enforce case insensitivity on accounts, plans, networks and nodes
+
+## 0.9.17 -- 2020 Mar 22
+Improve onboarding help
