@@ -10,5 +10,4 @@
   * On the next screen, click "Finish".
   * A "Security Warning" dialog appears. Click "Yes".
   * You should now see a dialog with the message "The import was successful". Click "OK".
-  
-  
+  * Congratulations! You have successfully installed your Bubble certificate!
