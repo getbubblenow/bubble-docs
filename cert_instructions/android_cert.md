@@ -1,6 +1,4 @@
 
-There are two ways to install your Bubble Certificate on your Android device:
-
  * Log in to your Bubble
  * Navigate to the "Devices" screen
  * In the "Certificate" column for your Android device, tap the "Android" link to download the certificate
