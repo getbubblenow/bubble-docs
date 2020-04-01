@@ -110,3 +110,6 @@ Enforce case insensitivity on accounts, plans, networks and nodes
 
 ## 0.9.17 -- 2020 Mar 22
 Improve onboarding help
+
+## 0.9.18 -- 2020 Mar 31
+Add bubble-nodemanager service
