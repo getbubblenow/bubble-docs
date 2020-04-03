@@ -38,14 +38,17 @@ These repositories contain code that is built separately, and then included in `
 
 ### [dnscrypt-proxy](https://git.bubblev.org/bubblev/dnscrypt-proxy)
 A fork of https://github.com/DNSCrypt/dnscrypt-proxy.git
+
 The `bubble` branch contains some minor changes to work with Bubble. The built binary is included in the `algo` repository, which is then packged and included in the ansible `algo` role in the `bubble` repository.
 
 ### [algo](https://git.bubblev.org/bubblev/algo)
 A fork of https://github.com/trailofbits/algo
+
 The `bubble` branch contains some minor changes to work with Bubble, including the `bubble_zip.sh` script, which packages the repository for inclusion in the ansible `algo` role in the `bubble` repository.
 
 ### [mitmproxy](https://git.bubblev.org/bubblev/mitmproxy)
 A fork of https://github.com/mitmproxy/mitmproxy/
+
 The `bubble` branch contains some minor changes to work with Bubble, including the `bubble_zip.sh` script, which packages the repository for inclusion in the ansible `mitmproxy` role in the `bubble` repository.
 
 ### [bubble-nodemanager](https://git.bubblev.org/bubblev/bubble-nodemanager)
