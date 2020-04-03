@@ -52,7 +52,7 @@ A fork of https://github.com/mitmproxy/mitmproxy/
 The `bubble` branch contains some minor changes to work with Bubble, including the `bubble_zip.sh` script, which packages the repository for inclusion in the ansible `mitmproxy` role in the `bubble` repository.
 
 ### [bubble-nodemanager](https://git.bubblev.org/bubblev/bubble-nodemanager)
-A low-level management system for deployed Bubble nodes. Written in Rust for high-performance and a small memory footprint.
+A low-level management system for deployed Bubble nodes. Written in [Rust](https://www.rust-lang.org/) for high-performance and a small memory footprint.
 The resulting binary is included in the ansible `bubble_finalizer` role in the `bubble` repository.
 
 ## Data Repositories
