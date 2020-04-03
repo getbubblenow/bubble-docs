@@ -113,3 +113,6 @@ Improve onboarding help
 
 ## 0.9.18 -- 2020 Mar 31
 Add bubble-nodemanager service
+
+## 0.9.19 -- 2020 Apr 3
+Improve device setup UI and documentation
