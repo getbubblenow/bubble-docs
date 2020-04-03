@@ -1,3 +1,5 @@
+# Install your Bubble Certificate on an Apple Mac OS X system
+
   * Login to your Bubble
   * Go to "Devices"
   * In the "Download Certificate" section, click "Mac OS X"
@@ -13,3 +15,4 @@
   * An authorization dialog will appear. Enter your Mac user name and password and click "Update Settings" to authorize the change.
   * Close the "Keychain Access" application.
   * Congratulations! You have successfully installed your Bubble certificate!
+  * NOTE: if you use the Firefox web browser, you must also separately [install your Bubble Certificate in Firefox](firefox_cert.md)

@@ -1,3 +1,4 @@
+# Install your Bubble Certificate on a Microsoft Windows system
   * Login to your Bubble
   * Go to "Devices"
   * In the "Download Certificate" section, click "Windows"
@@ -11,3 +12,4 @@
   * A "Security Warning" dialog appears. Click "Yes".
   * You should now see a dialog with the message "The import was successful". Click "OK".
   * Congratulations! You have successfully installed your Bubble certificate!
+  * NOTE: if you use the Firefox web browser, you must also separately [install your Bubble Certificate in Firefox](firefox_cert.md)

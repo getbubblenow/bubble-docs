@@ -1,3 +1,5 @@
+# Connect an Android device to your Bubble VPN
+
 * On another device (not your Android device):
    * Login to your Bubble
    * Navigate to the Devices screen

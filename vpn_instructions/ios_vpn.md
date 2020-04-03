@@ -1,3 +1,5 @@
+# Connect an Apple iOS device to your Bubble VPN
+
 * On another device (not your iPhone or iPad):
    * Login to your Bubble
    * Navigate to the Devices screen

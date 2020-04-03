@@ -1,3 +1,5 @@
+# Connect an Linux system to your Bubble VPN
+
   * Install WireGuard by following the instructions for your Linux distribution at from: https://www.wireguard.com/install/
   * Login to your Bubble
   * Navigate to the Devices screen

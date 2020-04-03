@@ -1,4 +1,4 @@
-## Bubble Setup for Windows
+## Bubble Setup for Microsoft Windows
 
 Connecting your Windows system to Bubble requires these steps:
 

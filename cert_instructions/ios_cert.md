@@ -1,4 +1,5 @@
-
+# Install your Bubble Certificate on an Apple iOS device
+ 
  * Note: You must use Safari to download your Bubble certificate. If you're using Firefox or Chrome, switch to Safari before downloading the certificate.
  * You'll see a pop-up that says "This website is trying to download a configuration profile. Do you want to allow this?"
  * Tap "Allow"

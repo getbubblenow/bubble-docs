@@ -1,3 +1,5 @@
+# Connect an Apple Mac OS X system to your Bubble VPN
+
   * Download and install WireGuard from the [Mac App Store](https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&mt=12)
   * Login to your Bubble
   * Navigate to the Devices screen

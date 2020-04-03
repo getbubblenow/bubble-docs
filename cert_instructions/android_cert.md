@@ -1,3 +1,4 @@
+# Install your Bubble Certificate on an Android device
 
  * Log in to your Bubble
  * Navigate to the "Devices" screen
