@@ -77,7 +77,7 @@ Small caveat: We retain records of your payments for bookkeeping purposes, and i
 We have built in the Account Data Download feature from the start. We welcome the data protections guaranteed by laws like the GDPR. We make it easy to download every bit of data we have about you. It's not a lot of data, but we make it easy to download.
 
 ### Automatic Backup and Restore
-Your Bubble automatically does daily backups. These backups are encrypted on your Bubble before they are stored in cloud storage. This means that only your Bubble can decrypt them. If you stop your bubble, you'll need to download your encryption keys first. With these keys, you can restore your Bubble from cloud storage start using it again.
+Your Bubble automatically does daily backups. These backups are encrypted on your Bubble before they are stored in cloud storage. This means that only your Bubble can decrypt them. Before you stop your bubble, please download your restore key first. With this key, you can restore your Bubble from cloud storage start using it again.
 
 Note that if you delete your Bubble or delete your account, all of your backups will be deleted as well, and you will not be able to restore it. You would then have to launch a new Bubble.
 
