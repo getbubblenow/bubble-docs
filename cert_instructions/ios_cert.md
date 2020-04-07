@@ -4,7 +4,8 @@
  * Using your iOS device, log in to your Bubble and tap "Devices"
  * You should now see a list of your devices. Find your iOS device and tap the "iOS" link to download the certificate.
  * After tapping on the "iOS" link you should see a popup asking you to confirm, as in the screenshot below
- ![screenshot of download profile popup](ios_screenshots/01_download_profile.png)
+ <img src="ios_screenshots/01_download_profile.png" alt="screenshot of download profile popup" height="70%"/>
+ 
  * Tap "Allow" to download the profile
  * You should now see a pop-up titled "Profile Downloaded" as in the screenshot below. Tap the Close button on this pop-up.
  ![screenshot of profile downloaded message](ios_screenshots/02_profile_downloaded.png)
