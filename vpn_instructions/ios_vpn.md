@@ -18,7 +18,7 @@
    * A camera view will open. Scan the QR code shown on your other device. You'll be asked to provide a name for the tunnel. You can choose anything, but it's probably easiest to use the name of your Bubble. See the screenshot below for an example.
  <img src="ios_screenshots/03_set_vpn_name.png" alt="screenshot of WireGuard app adding VPN using QR code" height="500"/>
  
-   * You'll now see a pop-up titled "WireGuard Would Like to Add VPN Configurations", like the screenshot shown below. Tap "Allow" and then enter your passcode
+   * You'll now see a pop-up titled "WireGuard Would Like to Add VPN Configurations", like the screenshot shown below. Tap "Allow" and then enter your passcode.
  <img src="ios_screenshots/04_allow_vpn_config.png" alt="screenshot of WireGuard app requesting permission to add a VPN" height="500"/>
  
    * You'll now see your VPN connection listed, as shown below. Tap the toggle switch to turn it on.
