@@ -12,7 +12,7 @@
    * In the WireGuard app. You should see a screen like the one shown below. Tap "Add a tunnel". If you don't see "Add a tunnel", tap the Plus icon (+) in the top-right corner of the screen.
  <img src="ios_screenshots/01_wireguard_start.png" alt="screenshot of WireGuard app with no VPNs yet configured" height="500"/>
 
-   * When you tab, "Add a tunnel", you should see some buttons appear at the bottom of your screen, as shown below. Tap "Create from QR code"
+   * After you tap "Add a tunnel", you should see some buttons appear at the bottom of your screen, as shown below. Tap "Create from QR code"
  <img src="ios_screenshots/02_wireguard_add_tunnel.png" alt="screenshot of WireGuard app with no VPNs yet configured" height="500"/>
  
    * A camera view will open. Scan the QR code shown on your other device. You'll be asked to provide a name for the tunnel. You can choose anything, but it's probably easiest to use the name of your Bubble. See the screenshot below for an example.
