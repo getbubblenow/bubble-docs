@@ -20,5 +20,5 @@
 
         sudo cp ~/Downloads/vpn.conf /etc/wireguard/wg0.conf
 
-  * As root, run `wg-quick up wg0`
+  * As root, run `sudo wg-quick up wg0`
   * Congratulations! You are now connected to your Bubble's VPN!
