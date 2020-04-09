@@ -3,7 +3,7 @@
 ## Download the vpn.conf file
   * Login to your Bubble
   * Navigate to the Devices screen
-  * Find your device in the device list, or [add your Windows system as a device](../add_device.md)
+  * Find your device in the device list, or [add your Windows system as a device](../device_setup/add_device.md)
   * Click or tap "Show VPN connection info" for your new Windows device. Click the button that reads "Download vpn.conf file". A dialog will appear similar to the one shown below. 
   <img src="windows_screenshots/05_save_vpn_file.png" alt="screenshot of downloading vpn.conf file" height="500"/>
 
