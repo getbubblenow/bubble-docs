@@ -11,7 +11,7 @@
 * Using your iPhone or iPad:
    * Install the WireGuard App from the [Apple App Store](https://apps.apple.com/us/app/wireguard/id1441195209)
 
-## Install WireGuard
+## Connect to Bubble via WireGuard
 * Using your iPhone or iPad:
    * Open the WireGuard app
    * In the WireGuard app. You should see a screen like the one shown below. Tap "Add a tunnel". If you don't see "Add a tunnel", tap the Plus icon (+) in the top-right corner of the screen.

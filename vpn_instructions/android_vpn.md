@@ -1,14 +1,17 @@
 # Connect an Android device to your Bubble VPN
 
+## Display your VPN configuration as a QR code
 * On another device (not your Android device):
    * Login to your Bubble
    * Navigate to the Devices screen
    * In the "Add Device" section, enter a name for your Android device and click or tap the "Add" button to add it.
    * Click or tap "Show VPN connection info" for your new Android device. A QR code will appear.
 
-* On your Android device:
-   * Install the WireGuard from the Google Play Store: https://play.google.com/store/apps/details?id=com.wireguard.android
-      * Alternatively, if you have access to the F-Droid App Store, you can install from: https://f-droid.org/en/packages/com.wireguard.android/
+## Install WireGuard
+  * On your Android device, install the WireGuard from the Google Play Store: https://play.google.com/store/apps/details?id=com.wireguard.android
+    * Alternatively, if you have access to the F-Droid App Store, you can install from: https://f-droid.org/en/packages/com.wireguard.android/
+
+## Connect to Bubble via WireGuard
    * Open the WireGuard app
    * In the WireGuard app, tap "Add a tunnel". If you don't see "Add a tunnel", tap the Plus icon (+) in the top-right corner of the screen.
    * Tap the "Create from QR code" button
