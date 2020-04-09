@@ -1,7 +1,9 @@
 # Install your Bubble Certificate on an Android device
 
  * Log in to your Bubble
- * Navigate to the "Devices" screen
+ * Tap "Devices"
+ * You should now see a list of your devices. Find your Android device and tap the "Android" link to download the certificate.
+   * If you haven't added your Android device yet, [add your Android device to your Bubble](../device_setup/add_device.md).
  * In the "Certificate" column for your Android device, tap the "Android" link to download the certificate
  * Open the "Settings" app
  * Tap "Lock Screen and Security"

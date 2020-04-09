@@ -3,7 +3,8 @@
  * Note: You must use Safari to download your Bubble certificate. If you're using Firefox or Chrome, switch to Safari before downloading the certificate.
  * Using your iOS device, log in to your Bubble and tap "Devices"
  * You should now see a list of your devices. Find your iOS device and tap the "iOS" link to download the certificate.
- * After tapping on the "iOS" link you should see a popup asking you to confirm, as in the screenshot below
+ * If you haven't added your iOS device yet, [add your iOS device to your Bubble](../device_setup/add_device.md) now.
+ * Tap the "iOS" link for your device and you should see a popup asking you to confirm, as in the screenshot below:
 
  <img src="ios_screenshots/01_download_profile.png" alt="screenshot of download profile popup" height="500"/>
  
