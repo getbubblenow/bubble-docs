@@ -25,7 +25,7 @@ Utility code that defines package versions for various dependencies
 General utility code, used throughout bubble, and by other utility code
 
 #### utils/[cobbzilla-wizard](https://git.bubblev.org/bubblev/cobbzilla-wizard)
-A long-ago fork of DropWizard, this repository provides a simple framework for building Jersey/JAX-RS APIs
+A long-ago fork of DropWizard, cobbzilla-wizard is a simple framework for building Jersey/JAX-RS APIs
 
 #### utils/[restex](https://git.bubblev.org/bubblev/restex)
 A library used in testing to generate API documentation
