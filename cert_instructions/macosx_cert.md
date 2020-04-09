@@ -3,10 +3,14 @@
   * Login to your Bubble
   * Go to "Devices"
   * In the "Download Certificate" section, click "Mac OS X"
-  * In the file dialog, choose "Save File"
+  * In the file dialog, choose "Save File", as shown below
+ 
+
   * Open the "Keychain Access" app
-  * Select the "System" keychain from the "Keychains" list in the top-left panel
-  * From the "File" menu, choose "Import Items..."
+  * Select the "login" keychain from the "Keychains" list in the top-left panel
+  * From the "File" menu, choose "Import Items...", as shown below
+  
+
   * Find the Certificate file that you downloaded earlier and click "Open"
   * Right-click on the Certificate that you just added and choose "Get Info"
   * Toggle the arrow next to the "Trust" section to expand it
