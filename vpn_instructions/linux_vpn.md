@@ -16,6 +16,9 @@
  <img src="linux_screenshots/01_download_vpn_conf.png" alt="screenshot of download vpn.conf file" height="500"/>
 
 ## Connect to Bubble via WireGuard
-  * After you have downloaded the `vpn.conf` file, as the root user, copy the file to `/etc/wireguard/wg0.conf`
+  * After you have downloaded the `vpn.conf` file, as the root user, copy the file to `/etc/wireguard/wg0.conf`, for example:
+
+        sudo cp ~/Downloads/vpn.conf /etc/wireguard/wg0.conf
+
   * As root, run `wg-quick up wg0`
   * Congratulations! You are now connected to your Bubble's VPN!
