@@ -1,7 +1,8 @@
 # Add a new device
 
-Bubble supports all common desktop and mobile devices. To connect a new computer or mobile device to your Bubble, 
-you must first add it as a device.
+Bubble supports all common desktop and mobile operating systems, including Windows, Mac OS X, Linux, iOS and Android.
+
+To connect a new computer or mobile device to your Bubble, you must first add it as a device.
   
 ### To add a new device to your Bubble:
 
