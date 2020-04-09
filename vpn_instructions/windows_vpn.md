@@ -19,7 +19,7 @@
 
   <img src="windows_screenshots/01_run_wireguard.png" alt="screenshot of Open File dialog that appears when starting WireGuard msi installation" height="500"/>
 
-  * Click "Open"  
+  * Click "Run"  
 
   <img src="windows_screenshots/02_install_wireguard.png" alt="screenshot of User Account Control dialog that appears when starting WireGuard msi installation" height="500"/>
 
@@ -33,7 +33,7 @@
     <img src="windows_screenshots/04_import_tunnel_from_file.png" alt="screenshot of WireGuard initial screen" height="500"/>
 
 ## Connect to Bubble via WireGuard
-  * In the WireGuard application, click "Import tunnels(s) from file", and select the `vpn.conf` file that you downloaded earlier. You should now see a screen like the one shown below.
+  * In the WireGuard application, click "Import tunnels(s) from file". A file dialog will appear. Select the `vpn.conf` file that you downloaded earlier. You should now see a screen like the one shown below.
 
   <img src="windows_screenshots/07_activate_vpn.png" alt="screenshot of WireGuard with Bubble VPN added" height="500"/>
 
