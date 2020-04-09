@@ -33,6 +33,8 @@
  * Congratulations! You have successfully installed your Bubble certificate!
  * NOTE: if you use the Firefox web browser, you must also separately [install your Bubble Certificate in Firefox](firefox_cert.md)
 
+----
+
 ## Other Linux Distributions
 
 You should be able to connect any kind of Linux system to Bubble. To install the Bubble certificate on any Linux system, the steps would be:
