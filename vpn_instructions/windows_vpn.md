@@ -8,7 +8,7 @@
  
   <img src="windows_screenshots/05_save_vpn_file.png" alt="screenshot of downloading vpn.conf file" height="500"/>
 
-  * Choose "Save File" and save the vpn.conf file to your computer.
+  * Choose "Save File" and then click "OK" save the `vpn.conf` file to your computer.
 
 ## Install WireGuard
   * Download and install [WireGuard for Windows](https://download.wireguard.com/windows-client/wireguard-amd64-0.1.0.msi)
@@ -33,7 +33,7 @@
     <img src="windows_screenshots/04_import_tunnel_from_file.png" alt="screenshot of WireGuard initial screen" height="500"/>
 
 ## Connect to Bubble via WireGuard
-  * In the WireGuard application, click "Import tunnels(s) from file", and select the vpn.conf file that you downloaded. You should now see a screen like the one shown below.
+  * In the WireGuard application, click "Import tunnels(s) from file", and select the `vpn.conf` file that you downloaded earlier. You should now see a screen like the one shown below.
 
   <img src="windows_screenshots/07_activate_vpn.png" alt="screenshot of WireGuard with Bubble VPN added" height="500"/>
 
