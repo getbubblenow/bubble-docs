@@ -1,5 +1,6 @@
 # Install your Bubble Certificate on an Apple iOS device
  
+### Download the Certificate
  * Note: You must use Safari to download your Bubble certificate. If you're using Firefox or Chrome, switch to Safari before downloading the certificate.
  * Using your iOS device, log in to your Bubble and tap "Devices"
  * You should now see a list of your devices. Find your iOS device and tap the "iOS" link to download the certificate.
@@ -13,6 +14,7 @@
  
  <img src="ios_screenshots/02_profile_downloaded.png" alt="screenshot of profile downloaded message" height="500"/>
  
+### Install the Certificate
  * Open the "Settings" app on your phone. You should see a "Profile Downloaded" section near the top of your Settings screen, see screenshot below for an example. Tap "Profile Downloaded"
  
  <img src="ios_screenshots/03_profile_in_settings.png" alt="screenshot of settings screen with profile" height="500"/>

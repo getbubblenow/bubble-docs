@@ -2,6 +2,7 @@
 
 ## Ubuntu
 
+### Download the Certificate
  * Login to your Bubble
  * Click "Devices"
  * In the "Download Certificate" section, click "Linux"
@@ -9,6 +10,7 @@
 
  <img src="linux_screenshots/01_download_cert.png" alt="screenshot of download certificate dialog" height="500"/>
 
+### Install the Certificate
  * Open a terminal. If you are not root, become root. If you have sudo privileges, try `sudo bash`
  * As root, copy the certificate file you just downloaded to `/usr/share/ca-certificates/extra`. Create this directory if it does not already exist. For example:
 

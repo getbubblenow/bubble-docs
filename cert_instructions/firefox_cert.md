@@ -1,10 +1,13 @@
 # Install your Bubble Certificate in Firefox
- 
+
+### Download the Certificate
   * Start Firefox
   * Login to your Bubble
   * Go to "Devices"
   * In the "Download Certificate" section, click "Firefox"
   * Save the certificate file
+
+### Install the Certificate
   * Enter "about:preferences" in the URL bar and hit Enter
   * In the search box, type "certificates", you should see something like the screenshot below.
 

@@ -1,4 +1,6 @@
 # Install your Bubble Certificate on a Microsoft Windows system
+
+### Download the Certificate
   * Login to your Bubble
   * Go to "Devices"
   * In the "Download Certificate" section, click "Windows"
@@ -6,6 +8,7 @@
 
  <img src="windows_screenshots/01_download_cert.png" alt="screenshot of download certificate dialog" height="500"/>
 
+### Install the Certificate
   * Open the certificate file, you should see a dialog with the title "Open File" like the one shown below. Click "Open"
  
  <img src="windows_screenshots/02_open_cert_file.png" alt="screenshot of Open File dialog for certificate" height="500"/>

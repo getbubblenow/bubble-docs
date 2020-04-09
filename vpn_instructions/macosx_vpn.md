@@ -16,6 +16,7 @@
 
  <img src="macosx_screenshots/01_wireguard_in_app_store.png" alt="screenshot of WireGuard in the Mac App Store" height="500"/>
 
+## Connect to Bubble via WireGuard
   * Open the WireGuard application if it is not already open. You may find a WireGuard icon in your dock, as shown below. Click it to open WireGuard.
 
  <img src="macosx_screenshots/02_wireguard_in_dock.png" alt="screenshot of WireGuard in the Mac OS X doc" height="500"/>

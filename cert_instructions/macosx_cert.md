@@ -1,5 +1,6 @@
 # Install your Bubble Certificate on an Apple Mac OS X system
 
+### Download the Certificate
   * Login to your Bubble
   * Go to "Devices"
   * In the "Download Certificate" section, click "Mac OS X"
