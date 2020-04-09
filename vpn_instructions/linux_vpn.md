@@ -2,7 +2,7 @@
 
 ## Install WireGuard
   * Install WireGuard by following the [installation instructions for your Linux distribution](https://www.wireguard.com/install/)
-  * On Ubuntu systems, WireGuard also requires resolvconf to be installed, but does not install it itself. Ensure that resolvconf is installed:
+  * On Ubuntu systems, WireGuard also requires `resolvconf` to be installed, but does not install it itself. Ensure that `resolvconf` is installed:
 
         sudo apt install resolvconf
 
