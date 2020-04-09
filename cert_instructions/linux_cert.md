@@ -3,21 +3,21 @@
  * Login to your Bubble
  * Click "Devices"
  * In the "Download Certificate" section, click "Linux"
- * A file dialog may open, like the one shown below. Select "Save" and save the file.
+ * A file dialog may open, like the one shown below. Select "Save File" and click "OK" to save the file.
 
  <img src="linux_screenshots/01_download_cert.png" alt="screenshot of download certificate dialog" height="500"/>
 
  * Open a terminal. If you are not root, become root. If you have sudo privileges, try `sudo bash`
  * As root, copy the certificate file you just downloaded to `/usr/share/ca-certificates/extra`. Create this directory if it does not already exist. For example:
 
-    mkdir -p /usr/share/ca-certificates/extra                                        # ensure directory exists
-    cp ~/Downloads/`MY_BUBBLE_NAME`-ca-cert.crt /usr/share/ca-certificates/extra       # copy certificate
+        mkdir -p /usr/share/ca-certificates/extra                                        # ensure directory exists
+        cp ~/Downloads/`MY_BUBBLE_NAME`-ca-cert.crt /usr/share/ca-certificates/extra       # copy certificate
   
   Where `MY_BUBBLE_NAME` is the name of your Bubble.
 
  * After you've copied the certificate, you'll need to tell Ubuntu that it is OK to use. Still as root, run
  
-    dpkg-reconfigure ca-certificates
+        dpkg-reconfigure ca-certificates
 
  * You'll see the question "Trust new certificates from certificate authorities?", as in the screenshot below. Select "Yes" and press Enter
 
