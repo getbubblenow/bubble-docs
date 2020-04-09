@@ -24,4 +24,4 @@
 
  <img src="firefox_screenshots/04_close_certs.png" alt="screenshot of certificate trust settings dialog" height="500"/>
 
-  * Congratulations! You have successfully installed your Bubble certificate!
+  * Congratulations! You have successfully installed your Bubble certificate in Firefox!
