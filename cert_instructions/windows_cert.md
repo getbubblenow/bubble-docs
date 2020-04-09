@@ -2,8 +2,8 @@
   * Login to your Bubble
   * Go to "Devices"
   * In the "Download Certificate" section, click "Windows"
-  * Save the file
-  * Open the file. If you see a confirmation dialog, click "Open"
+  * Save the certificate file
+  * Open the certificate file. If you see a confirmation dialog, click "Open"
   * A "Certificate" dialog will appear. Click "Install Certificate..."
   * The "Certificate Import Wizard" dialog appears. Click "Next".
   * On the next screen, select "Place all certificates in the following store" and click "Browse..."
