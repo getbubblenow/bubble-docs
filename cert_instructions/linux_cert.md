@@ -14,14 +14,14 @@
  * Open a terminal. If you are not root, become root. If you have sudo privileges, try `sudo bash`
  * As root, copy the certificate file you just downloaded to `/usr/share/ca-certificates/extra`. Create this directory if it does not already exist. For example:
 
-        mkdir -p /usr/share/ca-certificates/extra                                        # ensure directory exists
-        cp ~/Downloads/MY_BUBBLE_NAME-ca-cert.crt /usr/share/ca-certificates/extra     # copy certificate
+        sudo mkdir -p /usr/share/ca-certificates/extra                                      # ensure directory exists
+        sudo cp ~/Downloads/MY_BUBBLE_NAME-ca-cert.crt /usr/share/ca-certificates/extra     # copy certificate
   
   Where `MY_BUBBLE_NAME` is the name of your Bubble.
 
  * After you've copied the certificate, you'll need to tell Ubuntu that it is OK to use. Continuing as root, run
  
-        dpkg-reconfigure ca-certificates
+        sudo dpkg-reconfigure ca-certificates
 
  * You'll see the question "Trust new certificates from certificate authorities?", as in the screenshot below. Select "Yes" and press Enter
 
