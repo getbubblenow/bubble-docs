@@ -42,7 +42,7 @@ With Social Media Inbox, your Bubble visits the various social media services on
 When you "like" or "reply" from your Social Media Inbox, you can choose whether to post that like/reply back to the social media service (in which case they will see it), or you can choose to send your like or reply via SMS or email, in which case they will know nothing about that interaction between you and your friend.
 
 ### Auto-Play Blocking
-Many websites have content that automatically starts playing and making noise at you, when you're just trying to browse. Many people find Netflix "previews" annoying and distracting, and there is no way to turn off this "feature". With Bubble, auto-play is disabled. Your Bubble simply won't let the auto-play audio/video traffic through to you.
+Many websites have videos that automatically start playing and making noise at you, when you're just trying to browse. In most cases, there is no way to turn off this "feature". With Bubble, auto-play can be disabled. Your Bubble simply won't let the auto-play audio/video traffic through to you.
 
 ### Media Review
 Save every single video and audio asset that travels over your network to a folder that you can review, replay, add to media library, add a block rule, and much more.
