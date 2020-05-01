@@ -13,10 +13,10 @@ If all else fails, Bubble will fall back to the `en_US` locale as a last resort.
 Bubble's localized strings are grouped into a few different message bundles.
 
   * `pre_auth`: messages that may need to be displayed before a user session has begun. As such, the API call to retrieve these does not require a user session.
-  * `post_auth`: messages that would only be displayed for a logged-in user
-  * `countries`: localized names of all countries in the world
-  * `timezones`: localized names of all time zones in the world
-  * `app`: localized names for various app-specific messages. Each Bubble App contains its own localized messages. The `app` message bundle contains all messages for all apps for a given locale.
+  * `post_auth`: messages that would only be displayed for a logged-in user. A valid session is required.
+  * `countries`: localized names of all countries in the world. Does not require a session.
+  * `timezones`: localized names of all time zones in the world. Does not require a session.
+  * `app`: localized names for various app-specific messages. Each Bubble App contains its own localized messages. The `app` message bundle contains all messages for all apps for a given locale. A valid session is required.
 
 ### Retrieving a Message Bundle
 To retrieve a message bundle, use the API endpoint `messages/{locale}/{group}`. For example:
