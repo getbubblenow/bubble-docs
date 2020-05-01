@@ -36,7 +36,8 @@ Handlebars syntax where the client is required to perform variable substitution 
 ### Date/Time Formats
 Date and time formats can use the Handlebars variables shown below. For each field, an example in English is shown
 
-  * `YYYY`: full 4-digit year: `2020`
+  * `YYYY`: full 4-digit year: `2021`
+  * `YY`: last 2 digits of year: `21` could be `1921` or `2021`
   * `MMMM`: full month name: `January`
   * `MMM`: short month name: `Jan`
   * `MM`: two-digit month number, zero-padded if less than 10: `01` for January
