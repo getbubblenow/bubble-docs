@@ -69,6 +69,7 @@ Currency formats can use the Handlebars variables shown below.
   * `totalMajorUnits`: the number of whole units of the currency. For example, in `en_US`, this is the number of dollars
   * `totalMinorUnits`: the number of one-hundredth of one whole unit of the currency. For example, in `en_US`, this is the number of cents
   * `currency`: the 3-letter currency abbreviation, for example `USD`
+  * `messages`: a map that is the union of all message bundles (primary used to translate the `currency` abbreviation into a currency symbol)
 
 For example, in the `post_auth` message bundle, the `en_US` string list contains:
 
@@ -77,3 +78,6 @@ For example, in the `post_auth` message bundle, the `en_US` string list contains
 In the API, currency amounts are represented as an integer number of minor currency units.
 A client should define a method that accepts a currency name and an integer number of minor currency units and formats it according to the locale-specific format.
 In the `en_US` locale, with the currency `USD`, the above example would format the amount 1234 as: `$12.34` 
+
+Note that the currency symbol is determined using `messages['currency_symbol_'+currency.toUpperCase()]` -- this is
+looking up the localized value for `currency_symbol_USD` in the , which is found in the `pre_auth` message bundle, and returns the string `$`
