@@ -16,7 +16,7 @@ Bubble's localized strings are grouped into a few different message bundles.
   * `post_auth`: messages that would only be displayed for a logged-in user
   * `countries`: localized names of all countries in the world
   * `timezones`: localized names of all time zones in the world
-  * `app` bundles: Each Bubble App defines strings for various app-specific messages it might need to display
+  * `app`: localized names for various app-specific messages. Each Bubble App contains its own localized messages. The `app` message bundle contains all messages for all apps for a given locale.
 
 ### Retrieving a Message Bundle
 To retrieve a message bundle, use the API endpoint `messages/{locale}/{group}`. For example:
@@ -40,11 +40,11 @@ Date and time formats can use the Handlebars variables shown below. For each fie
   * `MMMM`: full month name: `January`
   * `MMM`: short month name: `Jan`
   * `MM`: two-digit month number, zero-padded if less than 10: `01` for January
-  * `M`: month number, only one digit if less than 10: `1`
+  * `M`: month number, only one digit if less than 10: `1` for January
   * `EEE`: full day of week name: `Monday`
-  * `E`: short dat of week name: `Mon`
-  * `dd`: two-digit day of month, zero-padded if less than 10: `01` the first day of a month
-  * `d`: day of month, only one digit if less than 10: `1`
+  * `E`: short day of week name: `Mon`
+  * `dd`: two-digit day of month, zero-padded if less than 10: `01` for the first day of a month
+  * `d`: day of month, only one digit if less than 10: `1` for the first day of a month
   * `H`: hour of day, using 24-hour clock: `23` for 11pm
   * `h`: hour of day, using 12-hour clock: `11` could be 11am or 11pm
   * `A`: AM/PM string, uppercase: `AM`
