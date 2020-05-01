@@ -10,7 +10,7 @@ If all else fails, Bubble will fall back to the `en_US` locale as a last resort.
 
 ## Message Bundles
 
-Bubble's localized strings are grouped into a few different message bundles.
+Bubble's localized strings are grouped into a few different message bundles:
 
   * `pre_auth`: messages that may need to be displayed before a user session has begun. As such, the API call to retrieve these does not require a user session.
   * `post_auth`: messages that would only be displayed for a logged-in user. A valid session is required.
@@ -19,7 +19,7 @@ Bubble's localized strings are grouped into a few different message bundles.
   * `app`: localized names for various app-specific messages. Each Bubble App contains its own localized messages. The `app` message bundle contains all messages for all apps for a given locale. A valid session is required.
 
 ### Retrieving a Message Bundle
-To retrieve a message bundle, use the API endpoint `messages/{locale}/{group}`. For example:
+To retrieve a message bundle, use the API endpoint `messages/{locale}/{bundle}`. For example:
 
     GET messages/en_US/pre_auth
 
@@ -60,6 +60,8 @@ For example, in the `post_auth` message bundle, the `en_US` string list contains
 In the API, dates are represented as epoch times (milliseconds since the UNIX epoch).
 A client should define a method that accepts a UNIX epoch in milliseconds and formats it according to the locale-specific format.
 In the `en_US` locale, the above example might result in the string: `Fri Jun 5, 2020`
+
+For a JavaScript example, you can see how the above logic is implement in the [bubble-web](https://git.bubblev.org/bubblev/bubble-web/src/branch/master/src/_store/index.js#L72) frontend code.
     
 ### Currency Formats
 Currency formats can use the Handlebars variables shown below.
