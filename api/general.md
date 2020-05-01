@@ -1,5 +1,19 @@
 # General Conventions
 
+## API Base URI
+Throughout these documents, specific endpoints are shown in their "minimal" form. When actually making API calls,
+these minimal forms will be prefixed with some "API Base URI".
+
+For a given hostname `foo.example.com`, the standard API Base URI would be `https://foo.example.com:1443/api/`
+
+So if you see a reference like this:
+
+    GET me
+
+The actual API call you would make would be an HTTP GET to `https://foo.example.com:1443/api/me`
+
+In this particular example, the API call would return the Account object for the currently logged-in user. 
+
 ## HTTP Request Methods
 
 The Bubble API loosely adheres to REST standards.
