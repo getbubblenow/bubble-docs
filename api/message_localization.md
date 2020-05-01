@@ -77,7 +77,7 @@ For example, in the `post_auth` message bundle, the `en_US` string list contains
 
 In the API, currency amounts are represented as an integer number of minor currency units.
 A client should define a method that accepts a currency name and an integer number of minor currency units and formats it according to the locale-specific format.
-In the `en_US` locale, with the currency `USD`, the above example would format the amount 1234 as: `$12.34` 
+In the `en_US` locale, with the currency `USD`, the above example would format the amount 1234 as: `$12.34`, and the amount 2500 as `$25` 
 
 Note that the currency symbol is determined using `messages['currency_symbol_'+currency.toUpperCase()]` -- this is
 looking up the localized value for `currency_symbol_USD` in the , which is found in the `pre_auth` message bundle, and returns the string `$`
