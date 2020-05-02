@@ -83,7 +83,7 @@ It could also mean that the API endpoint itself does not exist, and could not be
 This response means that something bad happened on the server. It wasn't the caller's fault. This is usually a bug
 and indicates that something within the API must be fixed.
 
-If you receive a 500 error, please send the following information to support@getbubblenow.com:
+If you receive a 500 error, please send the following information to [support@getbubblenow.com](mailto:support@getbubblenow.com):
   * The API endpoint you called; please send the full URL including query parameters
   * The request method (`GET`, `POST`, etc)
   * The request body, if any
