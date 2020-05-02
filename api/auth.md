@@ -19,10 +19,12 @@ The session identifier can be read from the `token` property of this object.
 
 If multifactor authentication is enabled, see the section below on how to send additional information to complete the login process.
 
+If no user with the provided name exists, OR if the password is incorrect, the API will return a `404 Not Found` error.
+
 ## Authenticated Requests
 To make an authenticated request, pass the session identifier in the `X-Bubble-Session` HTTP header.
 
-## Retreive Current User
+## Retrieve Current User
 To get the Account object for the currently logged-in user, issue a `GET` to the `me` API endpoint. 
 
 ## Logout

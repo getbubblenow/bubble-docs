@@ -61,6 +61,10 @@ Read the [Message Localization](message_localization.md) section for more detail
 If there is no localized message for the `messageTemplate`, or the client application does not yet support localization,
 then the client should display the default English language string found in the `message` property.
 
+### `400 Bad Request`
+This response usually means that the JSON object you sent (for a `PUT` or `POST` request) does not match what the API expected.
+For example, perhaps a JSON property was misspelled, or a JSON property that should have a string value was set to a JSON array or object. 
+
 ### `401 Unauthorized`
 This response means that the API call requires an authenticated user session, and no session token was sent, or the
 session has expired. In this case, the client application should display a login screen so that the user can log in
@@ -79,3 +83,8 @@ It could also mean that the API endpoint itself does not exist, and could not be
 This response means that something bad happened on the server. It wasn't the caller's fault. This is usually a bug
 and indicates that something within the API must be fixed.
 
+If you receive a 500 error, please send the following information to support@getbubblenow.com:
+  * The API endpoint you called; please send the full URL including query parameters
+  * The request method (`GET`, `POST`, etc)
+  * The request body, if any
+  * The complete response from the API server, including the stack trace if one was displayed
