@@ -116,3 +116,6 @@ Add bubble-nodemanager service
 
 ## 0.9.19 -- 2020 Apr 3
 Improve device setup UI and documentation
+
+## 0.10.0 -- 2020 Jun 7
+Introduce packer support for faster deployments

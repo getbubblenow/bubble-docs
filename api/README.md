@@ -5,6 +5,9 @@ The Bubble API is a REST/JSON API used by the web interface and native clients t
 ## [General Conventions](general.md)
 The general conventions used throughout the Bubble API.
 
+## [Booting](boot.md)
+Determine the Base URIs for authentication and other API operations.
+
 ## [Authentication](auth.md)
 Auth functions: How to login and start a new API session, how to logout, etc.
 

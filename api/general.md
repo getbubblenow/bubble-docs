@@ -12,7 +12,7 @@ So if you see a reference like this:
 
 The actual API call you would make would be an HTTP GET to `https://foo.example.com:1443/api/me`
 
-In this particular example, the API call would return the Account object for the currently logged-in user. 
+In this particular example, the API call would return the Account object for the currently logged-in user.
 
 ## HTTP Request Methods
 
