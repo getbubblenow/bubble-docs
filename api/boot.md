@@ -9,6 +9,7 @@ The contents of this JSON file look something like this:
 
     {
       "sages": [
+        "https://btest5.bubv.net",
         "https://beta.bubblev.com"
       ]
     }
@@ -17,7 +18,8 @@ The `sages` property is an array of Bubble Sage nodes. The base URI for a sage c
 the URL.
 
 When authenticating, try each URL listed under `sages` in order. For example, from the above JSON, the app
-should try using `https://beta.bubblev.com/api` as the base URI; the login request would be a `POST` to `https://beta.bubblev.com/api/auth/login`
+should try using `https://btest5.bubv.net/api` as the base URI; the login request would be a `POST` to `https://btest5.bubv.net/api/auth/login`.
+If this login attempt fails, next try `https://beta.bubblev.com/api` as the base URI; the second login request would be a `POST` to `https://beta.bubblev.com/api/auth/login`
 
 For more information on the authentication process, see the [Authentication](auth.md) documentation.
 
