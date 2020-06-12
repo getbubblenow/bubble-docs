@@ -70,7 +70,7 @@ If there are multiple bubble objects in the results with `"state": "running"`, t
 them which bubble they would like to connect to. In the list of bubbles shown to the user, combine the `name` and
 `domainName` fields. In the above example, this would result in `zork.bubv.net`.
 
-If there zero bubble objects in the results with with `"state": "running"`, then present a screen that tells the
+If there are zero bubble objects in the results with with `"state": "running"`, then present a screen that tells the
 user they have no bubble currently running. This screen should have a button to "Launch a New Bubble". When this
 button is tapped, open a URL by appending `/new_bubble` to the sage URL that was used to login.
 
