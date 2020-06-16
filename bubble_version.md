@@ -119,3 +119,6 @@ Improve device setup UI and documentation
 
 ## 0.10.0 -- 2020 Jun 7
 Introduce packer support for faster deployments
+
+## 0.10.5 -- 2020 Jun 7
+Packer support fully supported on DigitalOcean and Vultr
