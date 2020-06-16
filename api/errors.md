@@ -29,29 +29,29 @@ NOTE
 ### Errbit Environment
 For the Environment, use a string in the form:
 
-    appVersion-deviceModel-osType-osVersion
+    appVersion-osType-osVersion-deviceModel
 
 The entire string should be lowercase, with any spaces replaced by underscores.
 
 The `appVersion` is the version of the app, as determined by the app.
-
-The `deviceModel` should indicate the make and model of the device.
-For Windows, `deviceModel` should be `x86` for 32-bit Windows, or `x86_64` for 64-bit Windows.
 
 The `osType` should be the operating system, usually be `ios`, `android`, `macos`, `windows`, or `linux`.
 If the operating system is not one of these, choose something that is indicative of the platform, for example `router`
 
 The `osVersion` should be the version of the OS, as reported by the OS.
 
+The `deviceModel` should indicate the make and model of the device.
+For Windows, `deviceModel` should be `x86` for 32-bit Windows, or `x86_64` for 64-bit Windows.
+
 Some example Environment strings:
 
-  `1.0.0-iphone_x-ios-13.4.1`
+  `1.0.0-ios-13.4.1-iphone_x`
 
-  `1.0.0-samsung_galaxy_s7-android-8.0.0`
+  `1.0.0-android-8.0.0-samsung_galaxy_s7`
 
-  `1.0.0-x86_64-windows-1607`
+  `1.0.0-windows-1607-x86_64`
 
-  `1.0.0-macbook_air-macos-10.15.5`
+  `1.0.0-macos-10.15.5-macbook_air`
 
 ## Sending Error Reports
 Refer to the documentation for the appropriate [Airbrake client library](https://airbrake.io/docs/installing-airbrake/)
