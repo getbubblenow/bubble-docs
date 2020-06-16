@@ -12,7 +12,10 @@ Determine the Base URIs for authentication and other API operations.
 Auth functions: How to login and start a new API session, how to logout, etc.
 
 ## [Message Localization](message_localization.md)
-How to translate message keys into localized messages. 
+How to translate message keys into localized messages.
+
+## [Error reporting](errors.md)
+How to report errors.
 
 ## [Device Management](devices.md)
 List, create, update and delete devices.

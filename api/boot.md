@@ -9,8 +9,8 @@ The contents of this JSON file look something like this:
 
     {
       "sages": [
-        "https://btest5.bubv.net",
-        "https://beta.bubblev.com"
+        "https://example.bubv.net",
+        "https://example.bubblev.com"
       ]
     }
 
