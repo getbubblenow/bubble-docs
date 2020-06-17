@@ -123,3 +123,5 @@ Introduce packer support for faster deployments
 ## 0.10.5 -- 2020 Jun 16
 Packer support fully supported on DigitalOcean and Vultr. Add appLogin and improve auth flow.
 
+## 0.11.0 -- 2020 Jun 17
+Simplify MITM management. Add sync password feature.
