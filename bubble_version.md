@@ -125,3 +125,6 @@ Packer support fully supported on DigitalOcean and Vultr. Add appLogin and impro
 
 ## 0.11.0 -- 2020 Jun 17
 Simplify MITM management. Add sync password feature.
+
+## 0.11.2 -- 2020 Jun 18
+Use email address as login identifier. Auto-assign network name.
