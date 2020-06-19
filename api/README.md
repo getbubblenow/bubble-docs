@@ -17,6 +17,9 @@ How to translate message keys into localized messages.
 ## [Error reporting](errors.md)
 How to report errors.
 
+## [Support](support.md)
+How to show support options for users who need help.
+
 ## [Device Management](devices.md)
 List, create, update and delete devices.
 

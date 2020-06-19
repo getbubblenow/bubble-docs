@@ -41,6 +41,7 @@ The response will be a JSON array of bubble objects, for example:
     [ {
       "uuid" : "ef1c60d8-47da-4960-9880-54ea176f43aa",
       "related" : null,
+      "nickname" : "my first bubble",
       "name" : "zork",
       "account" : "abd051dc-01d6-46d9-9191-e0ed7f5ba81a",
       "domain" : "b918925d-7812-4b69-9a3b-8c3eb6c6147f",
@@ -63,25 +64,31 @@ The response will be a JSON array of bubble objects, for example:
 
 Disregard any objects where `state` is not `running`.
 
-If there is exactly one bubble object in the results with `"state": "running"`, then this will be the bubble to use
-for node requests.
+### Exactly one Bubble
+If there is exactly one bubble object in the results with a `state` of `running`, `starting`, or `restoring`
+then this will be the selected bubble.
 
-If there are multiple bubble objects in the results with `"state": "running"`, then present a list to the user and ask
-them which bubble they would like to connect to. In the list of bubbles shown to the user, combine the `name` and
-`domainName` fields. In the above example, this would result in `zork.bubv.net`.
+### More than one Bubble
+If there are multiple bubble objects in the results with `state` of `running`, `starting`, or `restoring` 
+then present a list to the user and ask them which bubble they would like to select.
 
-If there are zero bubble objects in the results with with `"state": "running"`, then present a screen that tells the
-user they have no bubble currently running. This screen should have a button to "Launch a New Bubble". When this
-button is tapped, open a URL by appending `/new_bubble` to the sage URL that was used to login.
+In the list of bubbles shown to the user, show a list the `nickname` field and the appropriate [localized message](message_localization.md) corresponding to the `state` field,
+which is `msg_network_state_<<state>>`, for example the en_US locale defines `msg_network_state_running` as `running`
 
-For example, based on the `boot.json` shown above, this would be `https://beta.bubblev.com/new_bubble`.
+### No Bubbles
+If there are zero bubble objects in the results with `state` of `running`, `starting`, or `restoring`
+then present a screen that tells the user they have no bubble currently running.
+This screen should have a button to "Launch a New Bubble". This button opens a URL by appending `/new_bubble` to the sage URL that was used to login.
+For example, based on the `boot.json` shown above, this would be `https://example.bubblev.com/new_bubble`.
 
 ## Determine the Node Base URI
 Once a node is selected (automatically if there is only one, or by user selection if more than one), then
 determine the node base URI by combining the `name` and `domainName` properties of the node object
 as `https://<node>.<domainName>:1443/api`. In the above example, this would be `https://zork.bubv.net:1443/api`
 
-## Start a Node Session
+## When `state` is `running`: Start a Node Session
+If the `state` of the selected bubble is `running`, then start a new API session with the bubble node.
+
 Using the Node Base URI, authenticate against the `/auth/login` API endpoint for the node. Use the same username
 and password that was used to authenticate against the sage.
 
@@ -90,6 +97,45 @@ and allow the user to enter their password and login. Usually this step will not
 we will keep the sage password and the node password in sync. However, it is possible for advanced users to have separate
 passwords for their sage login versus their node login.
 
-## Cache session tokens separately
+### Login failures
+If the login results in a network error (does not return any HTTP response), retry the request every 5 seconds
+until you have attempted the login request 5 times. If login is still unsuccessful, show an error message to the user
+indicating that the bubble is unreachable, and that they can ask for help from our [support](support.md) group.
+
+### Cache session tokens separately
 Note that the API session with the sage is distinct and separate from the API session with the node. As such,
 each token should be cached separately.
+
+## When `state` is `starting` or `restoring`: Show Progress Meter
+If the `state` of the selected bubble is `starting` or `restoring`, then the bubble is not ready yet, so you can't
+(yet) start an API session with the bubble itself.
+
+However, using the sage API, you can determine how far along the startup or restore process is, and display
+a progress meter to the end user.
+
+Every 5 seconds, poll `GET /users/${userId}/networks/${networkId}/actions/status` using the sage API, where:
+
+  * `userId` is the user's login
+  * `networkId` is the `uuid` field of the selected bubble
+
+This API call returns an array of objects, each representing the launch status of a node within the bubble.
+Today, every bubble has exactly one and only one node, so this array will always have only one object.
+
+An example JSON response to the above API request:
+
+    [ {
+        "account": "abd051dc-01d6-46d9-9191-e0ed7f5ba81a",
+        "network": "ef1c60d8-47da-4960-9880-54ea176f43aa",
+        "percent": 63,
+        "messageKey": "meter_tick_role_nginx"
+    } ]
+
+Given the above response, show a progress meter that is 63% full, and display the [localized message](message_localization.md) corresponding to the `messageKey`.
+
+### Verify `state` is `running`, Continue with Login
+When the `percent` reaches 100, request the `/me/networks` API endpoint and verify that the `state` is now `running`.
+
+If the `state` is `running`, continue with login as described above in "Start a Node Session"
+
+If the `state` is not `running`, show an error message to the user indicating that the bubble had problems starting,
+and that they can ask for help from our [support](support.md) group.
