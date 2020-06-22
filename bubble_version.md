@@ -128,3 +128,6 @@ Simplify MITM management. Add sync password feature.
 
 ## 0.11.2 -- 2020 Jun 18
 Use email address as login identifier. Auto-assign network name.
+
+## 0.11.3 -- 2020 Jun 19
+Add app links. Add support info. Simplify email/sms messages. Update progress meter.

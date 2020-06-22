@@ -11,6 +11,9 @@ Determine the Base URIs for authentication and other API operations.
 ## [Authentication](auth.md)
 Auth functions: How to login and start a new API session, how to logout, etc.
 
+## [Certificate Status Notification](cert_status.md)
+How to tell Bubble that the device has properly installed the Bubble CA certificate.
+
 ## [Message Localization](message_localization.md)
 How to translate message keys into localized messages.
 
