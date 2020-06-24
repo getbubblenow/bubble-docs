@@ -131,3 +131,6 @@ Use email address as login identifier. Auto-assign network name.
 
 ## 0.11.3 -- 2020 Jun 19
 Add app links. Add support info. Simplify email/sms messages. Update progress meter.
+
+## 0.12.2 -- 2020 Jun 24
+Add support for device security levels. Improve device management.
