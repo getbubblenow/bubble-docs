@@ -134,3 +134,6 @@ Add app links. Add support info. Simplify email/sms messages. Update progress me
 
 ## 0.12.2 -- 2020 Jun 24
 Add support for device security levels. Improve device management.
+
+## 0.12.4 -- 2020 Jun 24
+Keep more spare devices, better CA certificate information, improve UI/UX.
