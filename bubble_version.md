@@ -137,3 +137,6 @@ Add support for device security levels. Improve device management.
 
 ## 0.12.4 -- 2020 Jun 24
 Keep more spare devices, better CA certificate information, improve UI/UX.
+
+## 0.12.5 -- 2020 Jun 29
+Detect fqdn using SNI, better blocking and more reliable TLS passthru.
