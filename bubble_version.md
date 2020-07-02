@@ -143,3 +143,6 @@ Detect fqdn using SNI, better blocking and more reliable TLS passthru.
 
 ## 0.12.6 -- 2020 Jun 30
 Better device management, progress meter improvements
+
+## 0.12.7 -- 2020 Jul 2
+Improve CA cert validation, updated messages
