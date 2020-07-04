@@ -130,7 +130,7 @@ An example JSON response to the above API request:
         "messageKey": "meter_tick_role_nginx"
     } ]
 
-The above response is an array of progress meters. For the foreseeable future, it should always have exactly one object.
+The above response is an array of progress meters. It should always have exactly one object.
 If for some reason more than one object is in the array, always use the first object.
  
 Given the above response, show a progress meter that is 63% full, and display the [localized message](message_localization.md) corresponding to the `messageKey`.
