@@ -146,3 +146,6 @@ Better device management, progress meter improvements
 
 ## 0.12.7 -- 2020 Jul 2
 Improve CA cert validation, updated messages
+
+## 0.12.8 -- 2020 Jul 4
+Improve launch reliability, finer-grained progress meter
