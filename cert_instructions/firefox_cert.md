@@ -8,6 +8,7 @@
   * Save the certificate file
 
 ### Install the Certificate
+  * Start Firefox
   * Enter "about:preferences" in the URL bar and hit Enter
   * In the search box, type "certificates", you should see something like the screenshot below.
 

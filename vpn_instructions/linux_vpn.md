@@ -1,11 +1,5 @@
 # Connect an Linux system to your Bubble VPN
 
-## Install WireGuard
-  * Install WireGuard by following the [installation instructions for your Linux distribution](https://www.wireguard.com/install/)
-  * On Ubuntu systems, WireGuard also requires `resolvconf` to be installed, but does not install it itself. Ensure that `resolvconf` is installed:
-
-        sudo apt install resolvconf
-
 ## Download the vpn.conf file
   * Login to your Bubble
   * Navigate to the Devices screen
@@ -14,6 +8,12 @@
   * You may see a dialog box like the one shown below. If you see this, select "Save File" and click "OK".
 
  <img src="linux_screenshots/01_download_vpn_conf.png" alt="screenshot of download vpn.conf file" height="500"/>
+
+## Install WireGuard
+  * Install WireGuard by following the [installation instructions for your Linux distribution](https://www.wireguard.com/install/)
+  * On Ubuntu systems, WireGuard also requires `resolvconf` to be installed, but does not install it itself. Ensure that `resolvconf` is installed:
+
+        sudo apt install resolvconf
 
 ## Connect to Bubble via WireGuard
   * After you have downloaded the `vpn.conf` file, as the root user, copy the file to `/etc/wireguard/wg0.conf`, for example:

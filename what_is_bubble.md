@@ -50,7 +50,7 @@ Save every single video and audio asset that travels over your network to a fold
 ### App Store
 Ad Block, Malware Block, Social Media Inbox and the other wonderful features described above are packaged as "Bubble Apps" that come built-in to the Bubble platform. Bubble will also open an App Store where third-party developers can offer their own value-added extensions to the Bubble platform. All apps will be sandboxed and will not be able to send any data outside your Bubble. We are waiting to release the App Store until such sandboxing can be properly audited. All apps listed in the official Bubble App Store will be audited and certified by Bubble; but you can connect your Bubble to other App Stores, which may offer different guarantees (or none at all!)
 
-## Other reasons to Love your Bubble
+## More Reasons to Love your Bubble
 
 ### Bubble Promises:
   * We will never show you advertising.
