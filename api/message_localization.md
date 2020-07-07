@@ -61,7 +61,7 @@ In the API, dates are represented as epoch times (milliseconds since the UNIX ep
 A client should define a method that accepts a UNIX epoch in milliseconds and formats it according to the locale-specific format.
 In the `en_US` locale, the above example might result in the string: `Fri Jun 5, 2020`
 
-For a JavaScript example, you can see how the above logic is implement in the [bubble-web](https://git.bubblev.org/bubblev/bubble-web/src/branch/master/src/_store/index.js#L72) frontend code.
+For a JavaScript example, you can see how the above logic is implement in the [bubble-web](https://git.bubblev.org/bubblev/bubble-web/src/branch/master/src/_store/index.js#L83) frontend code.
     
 ### Currency Formats
 Currency formats can use the Handlebars variables shown below.
