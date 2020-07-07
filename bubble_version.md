@@ -152,3 +152,6 @@ Improve launch reliability, finer-grained progress meter
 
 ## 0.12.8 -- 2020 Jul 6
 More reliable stop/delete bubble
+
+## 0.13.0 -- 2020 Jul 7
+Initial restore bubble support in web UI
