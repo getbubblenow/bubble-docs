@@ -149,3 +149,6 @@ Improve CA cert validation, updated messages
 
 ## 0.12.8 -- 2020 Jul 4
 Improve launch reliability, finer-grained progress meter
+
+## 0.12.8 -- 2020 Jul 6
+More reliable stop/delete bubble
