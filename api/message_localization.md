@@ -55,7 +55,7 @@ Date and time formats can use the Handlebars variables shown below. For each fie
 
 For example, in the `post_auth` message bundle, the `en_US` string list contains:
 
-    date_format_ssh_key_expiration={{E}} {{M}} {{d}}, {{YYYY}}
+    date_format_ssh_key_expiration={{E}} {{MMM}} {{d}}, {{YYYY}}
 
 In the API, dates are represented as epoch times (milliseconds since the UNIX epoch).
 A client should define a method that accepts a UNIX epoch in milliseconds and formats it according to the locale-specific format.
