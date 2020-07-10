@@ -155,3 +155,6 @@ More reliable stop/delete bubble
 
 ## 0.13.0 -- 2020 Jul 7
 Initial restore bubble support in web UI
+
+## 0.13.1 -- 2020 Jul 8
+Improve mitm passthru performance, bugfixes in gzip stream handling and restore bubble function.
