@@ -161,3 +161,6 @@ Improve mitm passthru performance, bugfixes in gzip stream handling and restore 
 
 ## Adventure 0.14.0 -- 2020 Jul 11
 Add support for upgrading bubble through web UI
+
+## Adventure 0.14.1 -- 2020 Jul 12
+Launch in alternate location if first location is unavailable
