@@ -164,3 +164,6 @@ Add support for upgrading bubble through web UI
 
 ## Adventure 0.14.1 -- 2020 Jul 12
 Launch in alternate location if first location is unavailable
+
+## Adventure 0.14.2 -- 2020 Jul 15
+Introducing new web UI, various bugfixes
