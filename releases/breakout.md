@@ -12,6 +12,9 @@ We're targeting a Bubble launch time under 5 minutes.
 ### Native Apps
 Native apps will be listed in app stores and code-signed for Windows and Mac. Installing the Bubble app will be easier and take fewer steps.
 
+### App-driven Sign Up
+Without first visiting the Bubble website, users can install a Bubble app, sign up and launch a new Bubble right from there.
+
 ### Nearly all of the Internet "Just Works"
 Our cert-pin detection should be fairly complete. It should be rare to find an app that doesn't work properly with Bubble. We'll continue to expand our coverage as we find more apps that require cert-pinning.
 
@@ -24,3 +27,5 @@ We'll enable sharing of ShadowBan lists, so Bubble users can subscribe to each o
 ### Expanded Blocking
 We will continue to expand our filter coverage to catch more bad stuff.
 
+### Automatic Updates
+Your Bubble can automatically download and install new versions of Bubble.
