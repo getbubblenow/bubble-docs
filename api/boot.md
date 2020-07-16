@@ -26,6 +26,10 @@ For more information on the authentication process, see the [Authentication](aut
 If a login is successful, cache the sage URL locally and reuse that if a login is required in the future, for example
 because the current session is no longer valid.
 
+The login screen should also include a "Sign Up" button for new users. This link should use the first sage URL
+in the `boot.json` file to create a link to `/register`. For example, using the `boot.json` above, this
+would be `https://example.bubv.net/register` 
+
 Only re-fetch the `boot.json` file if the login fails with the cached URL. If there are new URLs listed
 in the `boot.json` file, try to login using those. If there are not any new URLs listed in the `boot.json` file,
 then the login has failed, and the app should display the appropriate error message to the user.
@@ -78,8 +82,11 @@ which is `msg_network_state_<<state>>`, for example the en_US locale defines `ms
 ### No Bubbles
 If there are zero bubble objects in the results with `state` of `running`, `starting`, or `restoring`
 then present a screen that tells the user they have no bubble currently running.
-This screen should have a button to "Launch a New Bubble". This button opens a URL by appending `/new_bubble` to the sage URL that was used to login.
-For example, based on the `boot.json` shown above, this would be `https://example.bubblev.com/new_bubble`.
+
+This screen should have a button to "Launch a New Bubble". This button opens a URL by appending `/new_bubble` to the sage URL that was used to login,
+and using the "appLogin" scheme to automatically log the user in.
+
+For example, based on the `boot.json` shown above, this would be `https://example.bubblev.com/appLogin?session=some-session-id&uri=/new_bubble`
 
 ## Determine the Node Base URI
 Once a node is selected (automatically if there is only one, or by user selection if more than one), then
