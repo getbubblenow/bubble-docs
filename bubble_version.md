@@ -167,3 +167,6 @@ Launch in alternate location if first location is unavailable
 
 ## Adventure 0.14.2 -- 2020 Jul 15
 Introducing new web UI, various bugfixes
+
+## Adventure 0.14.3 -- 2020 Jul 16
+Memory usage improvements for long-running bubbles
