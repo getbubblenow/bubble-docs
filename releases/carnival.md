@@ -6,7 +6,7 @@ Your Bubble will also have better performance, reliability and fault-tolerance, 
 
 This will be our first generally-available public release.
 
-Target Release Date: April 2021
+*Target Release Date: April 2021*
 
 ## What to Expect
 
