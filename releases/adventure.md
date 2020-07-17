@@ -40,6 +40,8 @@ We've done a lot of work optimizing connection handling and speeding up per-conn
 Bubble now supports backup and restore. This means you can stop your Bubble in one location, and start it in another.
 
 ## Caveats and Things We're Still Working On
+The Adventure release is still in development. Here's what we are still working on.
+All of these issues will be resolved prior to the final Adventure release.
 
 #### Native Apps
 The Bubble apps are not *yet* signed and listed in app stores. This means:
@@ -61,3 +63,6 @@ Another purpose of this beta is identifying apps to add to our cert-pinned white
 
 #### Web Design
 Our web app is being revised. We are replacing the current (default bootstrap) styling with a branded UI that matches the app experience. Until then, please bear with us and our not-so-great web design.
+
+#### Backup and Restore
+This feature is very new. We're still improving the workflow and interface, and ironing out any remaining bugs.
