@@ -1,6 +1,7 @@
 # Carnival
 #### version 2.0.0
-Now things are getting wild! Introducing Social Media Inbox, it's time to retake control of your social experience.
+Now things are getting wild! Introducing our flagship application: Social Media Inbox.
+Retake control of your social experience!
 
 This will be our first generally-available public release.
 
