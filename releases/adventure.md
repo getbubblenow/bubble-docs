@@ -49,15 +49,15 @@ The Bubble apps are not *yet* signed and listed in app stores. This means:
 
 The native apps also have some rough edges that we are still polishing. 
 
-### Blocking Coverage
+#### Blocking Coverage
 Although blocking coverage has been greatly expanded, it's not yet where we want it to be. You may still see some ads, and some trackers may still get through.
 
 Part of the purpose of this beta is to identify more opportunities for blocking.
 
-### Certificate Pinning
+#### Certificate Pinning
 Our support for cert-pinned apps has been expanded but is not yet comprehensive.
 
 Another purpose of this beta is identifying apps to add to our cert-pinned whitelist, so they also "just work".
 
-### Web Design
+#### Web Design
 Our web app is being revised. We are replacing the current (default bootstrap) styling with a branded UI that matches the app experience. Until then, please bear with us and our not-so-great web design.
