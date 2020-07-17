@@ -16,6 +16,6 @@ via SMS or email with the other person.
 
 ### Multi-node Bubbles
 Your Bubble can now run in multiple locations simultaneously. This means:
- * **Better perfomance:** your device will automatically connect to the Bubble with the shortest round-trip network time.
+ * **Better performance:** your device will automatically connect to the Bubble with the shortest round-trip network time.
  * **More reliable:** if one of your Bubble nodes has a problem or is unreachable, your devices will automatically try connecting to other nodes in your Bubble.
  * **More flexible:** stopping a Bubble node in one location and restarting it in another will no longer require any downtime, because you'll have other nodes running.
