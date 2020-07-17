@@ -170,3 +170,6 @@ Introducing new web UI, various bugfixes
 
 ## Adventure 0.14.3 -- 2020 Jul 16
 Memory usage improvements for long-running bubbles
+
+## Adventure 0.14.4 -- 2020 Jul 17
+Improvements to backup/restore functionality
