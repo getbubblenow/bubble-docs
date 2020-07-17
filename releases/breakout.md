@@ -2,7 +2,7 @@
 #### version 1.0.0
 Break through to a new level of personal data security and Internet experience! This will be our expanded beta release.
 
-*Target Release Date: October 2020*
+*Target Release Date: December 2020*
 
 ## What to Expect
 

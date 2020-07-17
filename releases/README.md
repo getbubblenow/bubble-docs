@@ -8,12 +8,14 @@ Bubble releases are named after classic Atari 2600 games.
 #### version 0.14.4
 Come join us on a great adventure! This is our pre-release evaluation version.
 
+*Target Release Date: September 2020*
+
 ----
 # [Breakout](breakout.md)
 #### version 1.0.0
 Break through to a new level of personal data security and Internet experience! This will be our expanded beta release.
 
-*Target Release Date: October 2020*
+*Target Release Date: December 2020*
 
 # [Carnival](carnival.md)
 #### version 2.0.0
