@@ -27,5 +27,11 @@ We'll enable sharing of ShadowBan lists, so Bubble users can subscribe to each o
 ### Expanded Blocking
 We will continue to expand our filter coverage to catch more bad stuff.
 
+### Flex Routing
+Some services notice that your IP address is in the cloud. For example, Vimeo.com requires Bubble users to complete a CAPTCHA before using the site. Some others (like macys.com) may deny VPN users entirely.
+
+With flex routing, your Bubble can route traffic for certain sites and apps through connected devices at your home (or elsewhere).
+You'll still get all the blocking and filtering from your Bubble, and the service will no longer know that you're routing their traffic through your Bubble before it reaches you.
+
 ### Automatic Updates
 Your Bubble can automatically download and install new versions of Bubble.
