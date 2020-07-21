@@ -174,5 +174,5 @@ Memory usage improvements for long-running bubbles
 ## Adventure 0.14.4 -- 2020 Jul 17
 Improvements to backup/restore functionality
 
-## Adventure 0.15.0 -- 2020 Jul 21
+## Adventure 0.15.1 -- 2020 Jul 21
 Apps are upgradable, ShadowBan support for Twitter web
