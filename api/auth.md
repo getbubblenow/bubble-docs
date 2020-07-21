@@ -40,7 +40,7 @@ If a user has configured MFA, then the response to `auth/login` will be differen
 mechanisms are enabled.
 
 ### Only TOTP Authentication Enabled
-If only TOTP authentication is enabled (and email/SMS authentication are not enabled, then the response to `auth/login`
+If only TOTP authentication is enabled (and email/SMS authentication are not enabled), then the response to `auth/login`
 will be HTTP status 422, and the response body will be `[ {"messageTemplate":"err.totpToken.required", ...} ]`
 
 Thus, if the status code is 422 and the body is a JSON array containing a single object with the `messageTemplate` property
