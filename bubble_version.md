@@ -176,3 +176,9 @@ Improvements to backup/restore functionality
 
 ## Adventure 0.15.1 -- 2020 Jul 21
 Apps are upgradable, ShadowBan support for Twitter web
+
+## Adventure 0.15.2 -- 2020 Jul 21
+App upgrades preserve user configs
+
+## Adventure 0.15.3 -- 2020 Jul 21
+Bubble upgrade also updates MITM components
