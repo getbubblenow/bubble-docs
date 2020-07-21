@@ -157,7 +157,7 @@ More reliable stop/delete bubble
 Initial restore bubble support in web UI
 
 ## 0.13.1 -- 2020 Jul 8
-Improve mitm passthru performance, bugfixes in gzip stream handling and restore bubble function.
+Improve mitm passthru performance, bugfixes in gzip stream handling and restore bubble function
 
 ## Adventure 0.14.0 -- 2020 Jul 11
 Add support for upgrading bubble through web UI
@@ -173,3 +173,6 @@ Memory usage improvements for long-running bubbles
 
 ## Adventure 0.14.4 -- 2020 Jul 17
 Improvements to backup/restore functionality
+
+## Adventure 0.15.0 -- 2020 Jul 21
+Apps are upgradable, ShadowBan support for Twitter web
