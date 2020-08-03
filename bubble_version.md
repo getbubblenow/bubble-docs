@@ -182,3 +182,6 @@ App upgrades preserve user configs
 
 ## Adventure 0.15.3 -- 2020 Jul 21
 Bubble upgrade also updates MITM components
+
+## Adventure 0.15.4 -- 2020 Jul 24
+Add support for trusted clients, web UI improvements
