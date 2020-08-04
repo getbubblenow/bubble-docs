@@ -1,5 +1,5 @@
 # Trusted Devices
-Trusted devices to can login without MFA.
+Trusted devices can login without MFA.
 
 ## Trust a device
 To trust for a device, a user must have already logged in and (if MFA is enabled) successfully completed any required MFA steps.

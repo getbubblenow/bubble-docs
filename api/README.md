@@ -12,7 +12,7 @@ Determine the Base URIs for authentication and other API operations.
 Auth functions: How to login and start a new API session, how to logout, etc.
 
 ## [Trusted Devices](trusted.md)
-Trusted devices to can login without MFA.
+Trusted devices can login without MFA.
 
 ## [Certificate Status Notification](cert_status.md)
 How to tell Bubble that the device has properly installed the Bubble CA certificate.
