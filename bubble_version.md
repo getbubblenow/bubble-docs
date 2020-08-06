@@ -188,3 +188,6 @@ Add support for trusted clients, web UI improvements
 
 ## Adventure 0.15.5 -- 2020 Aug 3
 Associate device with trusted client, allow setting preferred plan when adding payment method, web UI updates
+
+## Adventure 0.15.6 -- 2020 Aug 6
+Add flag to enable/disable logs, fix dnscrypt-proxy IP misalignment bug
