@@ -92,6 +92,7 @@ and using the "appLogin" scheme to automatically log the user in.
 For example, based on the `boot.json` shown above, this would be `https://example.bubblev.com/appLogin?session=some-session-id&uri=/new_bubble`
 
 #### Launch Bubble from App
+It's more convenient for the user to be able to launch a Bubble directly from the app.
 
 ##### Payment Handling
 First determine if the user has any payment methods defined. Call `GET me/paymentMethods`. This returns an array of AccountPaymentMethod objects.
@@ -100,11 +101,13 @@ Walk this array, skipping any objects with `"type": "promotion"`. For example, y
 
 If there are no objects found (or all objects have `"type": "promotion"`), then the user will need to enter payment information.
 
-On mobile platforms (iOS and Android), use the `appLogin` URL to open `/me/payment`
+On mobile platforms (iOS and Android):
+ * This screen should have a button to "Enter Payment Information". This button opens a URL by appending `/me/payment` to the sage URL that was used to login,
+   and using the "appLogin" scheme to automatically log the user in.
 
 On desktop platforms
- * Use the Stripe client libraries to tokenize a credit card. See the [Account Plans](plans.md) documentation for
-instructions on how to load the Stripe public key, which is required to use the Stripe client libraries.
+ * Use the Stripe client libraries to present a credit card entry screen and tokenize a credit card.
+ * See the [Account Plans](plans.md) documentation for instructions on how to load the Stripe public key, which is required to use the Stripe client libraries.
  * After tokenizing the card, add the account payment method:
 ```
     PUT me/paymentMethods
@@ -113,6 +116,9 @@ instructions on how to load the Stripe public key, which is required to use the 
         "paymentInfo": "{stripeToken}"
     }
 ```
+
+When a valid account payment method exists, present a "Launch Bubble Now" button. When the user clicks or taps this button,
+the app will create an Account Plan and launch a Bubble using that plan. 
 
 ##### Create Account Plan
 Create a default Account Plan:
