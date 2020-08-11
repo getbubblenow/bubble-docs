@@ -8,7 +8,7 @@ The simplest way to launch a Bubble is:
 
     POST me/networks/{plan}/actions/start
 
-Where `{plan}` is the `name` or `uuid` of an Account Plan. Note that you *cannot* use the Account Plan `nickname` here.
+Where `{plan}` is the `name` of an Account Plan. Note that you *cannot* use the Account Plan `nickname` here.
 
 To launch the Bubble in a specific location:
 
