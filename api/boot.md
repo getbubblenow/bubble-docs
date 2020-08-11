@@ -104,6 +104,7 @@ If there are no objects found (or all objects have `"type": "promotion"`), then 
 On mobile platforms (iOS and Android):
  * This screen should have a button to "Enter Payment Information". This button opens a URL by appending `/me/payment` to the sage URL that was used to login,
    and using the "appLogin" scheme to automatically log the user in.
+ * When the user returns to the app re-check `GET me/paymentMethods` to see if a valid account payment method has been added.
 
 On desktop platforms
  * Use the Stripe client libraries to present a credit card entry screen and tokenize a credit card.
