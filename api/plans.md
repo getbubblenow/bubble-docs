@@ -21,7 +21,16 @@ Returns an array of AccountPaymentMethod objects.
         "paymentInfo": "{stripeToken}"
     }
 
-Create the `{stripeToken}` value by tokenizing a credit card using the Stripe client libraries.
+Create the `{stripeToken}` value by tokenizing a credit card using the Stripe client libraries. In order to use the Stripe
+client libraries, you'll need a Stripe public key.
+
+### Loading the Stripe Public Key
+Call:
+
+    GET paymentMethods
+
+This returns an array of PaymentMethods supported by the Sage. Walk the array and find the object with `"driverClass" : "bubble.cloud.payment.stripe.StripePaymentDriver"`.
+Within this object, the public key is the value of the `driverConfig.publicApiKey` property. It starts with `pk_`.
 
 ## List Account Plans
 

@@ -83,10 +83,52 @@ which is `msg_network_state_<<state>>`, for example the en_US locale defines `ms
 If there are zero bubble objects in the results with `state` of `running`, `starting`, or `restoring`
 then present a screen that tells the user they have no bubble currently running.
 
+#### Launch Bubble via Web
+Implement this design first, because the alternative (described below) is more complex.
+
 This screen should have a button to "Launch a New Bubble". This button opens a URL by appending `/new_bubble` to the sage URL that was used to login,
 and using the "appLogin" scheme to automatically log the user in.
 
 For example, based on the `boot.json` shown above, this would be `https://example.bubblev.com/appLogin?session=some-session-id&uri=/new_bubble`
+
+#### Launch Bubble from App
+
+##### Payment Handling
+First determine if the user has any payment methods defined. Call `GET me/paymentMethods`. This returns an array of AccountPaymentMethod objects.
+
+Walk this array, skipping any objects with `"type": "promotion"`. For example, you might find an object with `"type": "credit"`.
+
+If there are no objects found (or all objects have `"type": "promotion"`), then the user will need to enter payment information.
+
+On mobile platforms (iOS and Android), use the `appLogin` URL to open `/me/payment`
+
+On desktop platforms
+ * Use the Stripe client libraries to tokenize a credit card. See the [Account Plans](plans.md) documentation for
+instructions on how to load the Stripe public key, which is required to use the Stripe client libraries.
+ * After tokenizing the card, add the account payment method:
+```
+    PUT me/paymentMethods
+    {
+        "paymentMethodType": "credit",
+        "paymentInfo": "{stripeToken}"
+    }
+```
+
+##### Create Account Plan
+Create a default Account Plan:
+
+    PUT me/plans
+    {}
+
+This will return an Account Plan object. Save at least the `name` property, it will be needed in the next step.
+
+##### Launch Bubble
+Launch the Bubble:
+
+    POST me/networks/{plan}/actions/start
+
+At this point the Bubble is launching. You should call `GET me/networks` and verify that the `state` is now `starting`.
+If the `state` is `created` then retry a few times, it should change to `starting` soon.
 
 ## Determine the Node Base URI
 Once a node is selected (automatically if there is only one, or by user selection if more than one), then
