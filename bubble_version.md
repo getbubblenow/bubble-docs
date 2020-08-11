@@ -191,3 +191,6 @@ Associate device with trusted client, allow setting preferred plan when adding p
 
 ## Adventure 0.15.6 -- 2020 Aug 6
 Add flag to enable/disable logs, fix dnscrypt-proxy IP misalignment bug
+
+## Adventure 0.15.7 -- 2020 Aug 10
+Send notification before first bill, web UI improvements
