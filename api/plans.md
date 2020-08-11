@@ -82,3 +82,4 @@ Notes:
     DELETE me/plans/{uuid}
 
 This will also stop and delete any Bubble associated with the Account Plan.
+All backups for the Bubble will also be deleted.

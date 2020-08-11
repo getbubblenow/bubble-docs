@@ -14,8 +14,8 @@ To launch the Bubble in a specific location:
 
     POST me/networks/{plan}/actions/start?cloud={cloud}&region={region}
 
-`{cloud}` must be the `name` or `uuid` of a valid compute cloud.
-`{region}` must be a valid `internalName` for the selected `{cloud}`(see "List Regions" below).
+ * `{cloud}` must be the `name` or `uuid` of a valid compute cloud.
+ * `{region}` must be a valid `internalName` for the selected `{cloud}`(see "List Regions" below).
 
 If the Bubble cannot be launched in the specified region, it will be launched in the next closest region.
 
