@@ -11,6 +11,12 @@ Determine the Base URIs for authentication and other API operations.
 ## [Authentication](auth.md)
 Auth functions: How to login and start a new API session, how to logout, etc.
 
+## [Plans and Payment](plans.md)
+Create and manage plans and payment methods.
+
+## [Bubble Management](bubbles.md)
+Launch and manage Bubbles.
+
 ## [Trusted Devices](trusted.md)
 Trusted devices can login without MFA.
 
