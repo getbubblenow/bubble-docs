@@ -17,13 +17,16 @@ To launch the Bubble in a specific location:
  * `{cloud}` must be the `name` or `uuid` of a valid compute cloud.
  * `{region}` must be a valid `internalName` for the selected `{cloud}`(see "List Regions" below).
 
-If the Bubble cannot be launched in the specified region, it will be launched in the next closest region.
+If the Bubble cannot be launched in the specified region, it will be launched in the next closest region (within the plan's footprint).
 
 If you want to launch in a specific region and fail to launch if that region is unavailable (instead of retrying in another region),
 then pass the URL parameter `exactRegion=true`, for example:
 
     POST me/networks/{plan}/actions/start?cloud=Vultr&region=Atlanta&exactRegion=true
 
+The above API call will try to launch the Bubble in Vultr/Atlanta, and if that fails it will *not* try to launch it
+in any other region.
+ 
 ## List Regions
 To list regions in order from closest to farthest:
 
