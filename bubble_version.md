@@ -194,3 +194,6 @@ Add flag to enable/disable logs, fix dnscrypt-proxy IP misalignment bug
 
 ## Adventure 0.15.7 -- 2020 Aug 10
 Send notification before first bill, web UI improvements
+
+## Adventure 0.16.0 -- 2020 Aug 17
+Display block stats in-page
