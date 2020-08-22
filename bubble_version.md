@@ -197,3 +197,6 @@ Send notification before first bill, web UI improvements
 
 ## Adventure 0.16.0 -- 2020 Aug 17
 Display block stats in-page
+
+## Adventure 0.16.1 -- 2020 Aug 22
+Network performance boosts and security improvements
