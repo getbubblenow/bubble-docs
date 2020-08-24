@@ -200,3 +200,6 @@ Display block stats in-page
 
 ## Adventure 0.16.1 -- 2020 Aug 22
 Network performance boosts and security improvements
+
+## Adventure 0.17.0 -- 2020 Aug 24
+ShadowBan support for Facebook, performance improvements, diagnostic tools
