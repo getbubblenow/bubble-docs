@@ -203,3 +203,9 @@ Network performance boosts and security improvements
 
 ## Adventure 0.17.0 -- 2020 Aug 24
 ShadowBan support for Facebook, performance improvements, diagnostic tools
+
+## Adventure 0.17.1 -- 2020 Aug 25
+Fix launch errors, improve performance
+
+## Adventure 0.17.2 -- 2020 Aug 26
+ShadowBan support for Facebook mobile, limit block stats to Bubbles with enough memory
