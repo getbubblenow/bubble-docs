@@ -1,5 +1,5 @@
 # Adventure
-#### version 0.14.4
+#### version 1.0.0
 Come join us on a great adventure! This is our pre-release evaluation version.
 
 *Target Release Date: September 2020*
@@ -44,25 +44,20 @@ The Adventure release is still in development. Here's what we are still working 
 All of these issues will be resolved prior to the final Adventure release.
 
 #### Native Apps
-The Bubble apps are not *yet* signed and listed in app stores. This means:
- * For iOS you'll need to request access to the TestFlight version of the Bubble app.
- * For Android you'll need to side-load the Bubble app onto your phone with a USB jump drive.
- * For Windows and Mac there are additional steps required to run the Bubble app. During installation you'll get warnings about running software from an unknown publisher.
-
 The native apps also have some rough edges that we are still polishing. 
 
 #### Blocking Coverage
 Although blocking coverage has been greatly expanded, it's not yet where we want it to be. You may still see some ads, and some trackers may still get through.
 
-Part of the purpose of this beta is to identify more opportunities for blocking.
+Part of the purpose of this release is to identify more opportunities for blocking.
 
 #### Certificate Pinning
 Our support for cert-pinned apps has been expanded but is not yet comprehensive.
 
-Another purpose of this beta is identifying apps to add to our cert-pinned whitelist, so they also "just work".
+Another purpose of this release is identifying apps to add to our cert-pinned whitelist, so they also "just work".
 
 #### Web Design
-Our web app is being revised. We are replacing the current (default bootstrap) styling with a branded UI that matches the app experience. Until then, please bear with us and our not-so-great web design.
+Our web app is being revised. We are replacing the old bootstrap styling with a branded UI that matches the app experience. Until then, please bear with us and our not-so-great web design.
 
 #### Backup and Restore
 This feature is very new. We're still improving the workflow and interface, and ironing out any remaining bugs.

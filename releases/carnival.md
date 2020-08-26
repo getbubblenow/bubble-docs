@@ -1,5 +1,5 @@
 # Carnival
-#### version 2.0.0
+#### version 3.0.0
 Now things are getting wild! Introducing our flagship application: Social Media Inbox.
 Retake control of your social experience!
 
