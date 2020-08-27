@@ -209,3 +209,6 @@ Fix launch errors, improve performance
 
 ## Adventure 0.17.2 -- 2020 Aug 26
 ShadowBan support for Facebook mobile, limit block stats to Bubbles with enough memory
+
+## Adventure 1.0.0 -- 2020 Aug 27
+ShadowBan keyword blocking, improve functionality and styling for on-page apps
