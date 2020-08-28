@@ -215,3 +215,6 @@ ShadowBan keyword blocking, improve functionality and styling for on-page apps
 
 ## Adventure 1.0.1 -- 2020 Aug 28
 Add support for ShadowBan keyword lists
+
+## Adventure 1.0.2 -- 2020 Aug 28
+Add ShadowBan signal/noise ratio
