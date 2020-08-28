@@ -212,3 +212,6 @@ ShadowBan support for Facebook mobile, limit block stats to Bubbles with enough 
 
 ## Adventure 1.0.0 -- 2020 Aug 27
 ShadowBan keyword blocking, improve functionality and styling for on-page apps
+
+## Adventure 1.0.1 -- 2020 Aug 28
+Add support for ShadowBan keyword lists
