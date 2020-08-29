@@ -218,3 +218,6 @@ Add support for ShadowBan keyword lists
 
 ## Adventure 1.0.2 -- 2020 Aug 28
 Add ShadowBan signal/noise ratio
+
+## Adventure 1.0.3 -- 2020 Aug 29
+Fix ApplePay, fix BlockParty on Twitter, various ShadowBan improvements
