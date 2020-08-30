@@ -221,3 +221,6 @@ Add ShadowBan signal/noise ratio
 
 ## Adventure 1.0.3 -- 2020 Aug 29
 Fix ApplePay, fix BlockParty on Twitter, various ShadowBan improvements
+
+## Adventure 1.0.4 -- 2020 Aug 30
+Allow BlockParty in-page stats to be disabled on a per-site basis
