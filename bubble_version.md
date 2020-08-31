@@ -224,3 +224,6 @@ Fix ApplePay, fix BlockParty on Twitter, various ShadowBan improvements
 
 ## Adventure 1.0.4 -- 2020 Aug 30
 Allow BlockParty in-page stats to be disabled on a per-site basis
+
+## Adventure 1.0.5 -- 2020 Aug 31
+ShadowBan support for Instagram and Reddit
