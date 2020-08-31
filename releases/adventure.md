@@ -22,6 +22,9 @@ To connect your device to Bubble, just install the app and sign in. That's it!
 ### More Blocking
 We've added more filters to block lots more bad stuff. We've added DNS-level blocking to complement our existing connection and stream blocking. 
 
+### Expanded ShadowBan Support
+We've added ShadowBan support for several social media sites: Facebook, Instagram, Twitter, and Reddit.
+
 ### More of the Internet "Just Works"
 With our alpha release, users experienced problems using certain native apps like the iOS App Store, banking apps, and other "certificate pinned" applications.
 With Adventure, we've added better support for cert-pinned applications and most of them will "just work".

@@ -15,9 +15,6 @@ Without first visiting the Bubble website, users can install a Bubble app, sign 
 ### Nearly all of the Internet "Just Works"
 Our cert-pin detection should be fairly complete. It should be rare to find an app that doesn't work properly with Bubble. We'll continue to expand our coverage as we find more apps that require cert-pinning.
 
-### Expanded ShadowBan Support
-We'll add ShadowBan support to even more social media services: TikTok, Instagram, Snapchat, Reddit, LinkedIn, and more.
-
 ### ShadowBan Sharing
 We'll enable sharing of ShadowBan lists, so Bubble users can subscribe to each other's ban lists and enjoy a better social media experience.
 
