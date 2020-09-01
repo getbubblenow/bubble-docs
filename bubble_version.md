@@ -227,3 +227,6 @@ Allow BlockParty in-page stats to be disabled on a per-site basis
 
 ## Adventure 1.0.5 -- 2020 Aug 31
 ShadowBan support for Instagram and Reddit
+
+## Adventure 1.0.6 -- 2020 Sep 1
+MITM improvements: better monitoring, faster startup 
