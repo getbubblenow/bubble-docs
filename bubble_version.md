@@ -230,3 +230,6 @@ ShadowBan support for Instagram and Reddit
 
 ## Adventure 1.0.6 -- 2020 Sep 1
 MITM improvements: better monitoring, faster startup 
+
+## Adventure 1.0.7 -- 2020 Sep 2
+ShadowBan support for Facebook comment threads, improve in-page app CSS 
