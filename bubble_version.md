@@ -233,3 +233,6 @@ MITM improvements: better monitoring, faster startup
 
 ## Adventure 1.0.7 -- 2020 Sep 2
 ShadowBan support for Facebook comment threads, improve in-page app CSS 
+
+## Adventure 1.1.0 -- 2020 Sep 11
+Introduce flex routing, improve MITM performance using async io for network requests
