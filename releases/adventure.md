@@ -1,5 +1,5 @@
 # Adventure
-#### version 1.1.0
+#### version 1.1.4
 Come join us on a great adventure! This is our pre-release evaluation version.
 
 *Target Release Date: September 2020*
@@ -26,7 +26,7 @@ We've added more filters to block lots more bad stuff. We've added DNS-level blo
 our existing connection and stream blocking.
 
 ### Expanded ShadowBan Support
-We've added ShadowBan support for several social media sites: Facebook, Instagram, Twitter, and Reddit.
+We've added ShadowBan support for several social media sites: Facebook, Instagram, Twitter, LinkedIn, and Reddit.
 
 ### More of the Internet "Just Works"
 With our alpha release, users experienced problems using certain native apps like the iOS App Store, banking apps,
