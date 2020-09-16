@@ -1,6 +1,6 @@
 # Bubble Version History
 
-## Adventure 1.1.4 -- 2020 Sep 15
+## Adventure 1.1.4 -- 2020 Sep 16
 ShadowBan support for LinkedIn
 
 ## Adventure 1.1.3 -- 2020 Sep 14
