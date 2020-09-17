@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.2.0 -- 2020 Sep 17
+Add HTTP and SSH tarpits, add SSH fail2ban, harden SSH
+
 ## Adventure 1.1.4 -- 2020 Sep 16
 ShadowBan support for LinkedIn
 
