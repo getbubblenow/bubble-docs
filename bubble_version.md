@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.2.1 -- 2020 Sep 17
+Bugfixes for new deployments
+
 ## Adventure 1.2.0 -- 2020 Sep 17
 Add HTTP and SSH tarpits, add SSH fail2ban, harden SSH
 
