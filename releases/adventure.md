@@ -1,5 +1,5 @@
 # Adventure
-#### version 1.2.2
+#### version 1.2.3
 Come join us on a great adventure! This is our pre-release evaluation version.
 
 *Target Release Date: September 2020*

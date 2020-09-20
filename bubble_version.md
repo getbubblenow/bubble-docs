@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.2.3 -- 2020 Sep 20
+Simplify flex routing setup
+
 ## Adventure 1.2.2 -- 2020 Sep 18
 Enable launching new Bubbles directly from local launcher
 
