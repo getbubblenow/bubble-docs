@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.2.4 -- 2020 Sep 21
+Proper handling of charset for non-UTF-8 sites
+
 ## Adventure 1.2.3 -- 2020 Sep 20
 Simplify flex routing setup
 
