@@ -1,7 +1,7 @@
 # Bubble Version History
 
 ## Adventure 1.2.5 -- 2020 Sep 22
-Remove beta messaging
+Remove beta messaging, new web layout
 
 ## Adventure 1.2.4 -- 2020 Sep 21
 Proper handling of charset for non-UTF-8 sites
