@@ -43,7 +43,7 @@ This information is collected for the purpose of administering your subscription
 
 (ii) Aggregate Apps and VPN connection summary statistics
 
-Bubble collects minimal information about usage in order to maintain excellent customer support and quality of service.  The section below specifies in detail what information we collect.  These statistics never include anything about what the user did with the VPN, or in other words, no data about the contents of destination of VPN traffic, no DNS queries, and no IP addresses.
+Bubble collects minimal information about usage in order to maintain excellent customer support and quality of service.  The section below specifies in detail what information we collect.  These statistics never include anything about what the user did with the VPN, or in other words, no data about the contents or destination of VPN traffic, no DNS queries, and no IP addresses.
 
 # Personal Information
 

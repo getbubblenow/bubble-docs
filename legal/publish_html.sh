@@ -20,7 +20,7 @@ for f in $(find . -type f -name "*.md" ) ; do
 
   # Change links to .md to .html
   echo "Rewriting markdown links to HTML and creating ${HTML}"
-  cat ${TMP} | sed -e 's/.md"/.html"/' > ${HTML}
+  cat header.html ${TMP} footer.html | sed -e 's/.md"/.html"/' > ${HTML}
 
   # Cleanup
   rm -f ${TMP}
