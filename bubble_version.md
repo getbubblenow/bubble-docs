@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.2.6 -- 2020 Sep 23
+Allow setting default security levels by device type
+
 ## Adventure 1.2.5 -- 2020 Sep 22
 Remove beta messaging, new web layout
 
