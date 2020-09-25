@@ -1,7 +1,7 @@
 # Bubble Version History
 
 ## Adventure 1.2.7 -- 2020 Sep 25
-Add RequestProtector app, update billing messages
+Add RequestProtector app, new devices screen, update messages
 
 ## Adventure 1.2.6 -- 2020 Sep 23
 Allow setting default security levels by device type
