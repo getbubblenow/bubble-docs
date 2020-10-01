@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.2.8 -- 2020 Oct 1
+Improve email delegation and device status API, update web UI
+
 ## Adventure 1.2.7 -- 2020 Sep 25
 Add RequestProtector app, new devices screen, update messages
 
