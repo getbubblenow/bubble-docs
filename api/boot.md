@@ -97,9 +97,9 @@ It's more convenient for the user to be able to launch a Bubble directly from th
 ##### Payment Handling
 First determine if the user has any payment methods defined. Call `GET me/paymentMethods`. This returns an array of AccountPaymentMethod objects.
 
-Walk this array, skipping any objects with `"paymentMethodType": "promotion"`. For example, you might find an object with `"paymentMethodType": "credit"`.
+Walk this array, skipping any objects with `"paymentMethodType": "promotional_credit"`. For example, you might find an object with `"paymentMethodType": "credit"`.
 
-If there are no objects found (or all objects have `"paymentMethodType": "promotion"`), then the user will need to enter payment information.
+If there are no objects found (or all objects have `"paymentMethodType": "promotional_credit"`), then the user will need to enter payment information.
 
 On mobile platforms (iOS and Android):
  * This screen should have a button to "Enter Payment Information". This button opens a URL by appending `/me/payment` to the sage URL that was used to login,
