@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.3.2 -- 2020 Oct 28
+Add strict security level, network performance improvements
+
 ## Adventure 1.2.8 -- 2020 Oct 1
 Improve email delegation and device status API, update web UI
 
