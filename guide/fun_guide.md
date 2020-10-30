@@ -1,17 +1,18 @@
 # Bubble Fun Guide
-Here are some fun things your Bubble makes possible
+Enjoy the fun things your Bubble now makes possible:
 
  * Enhanced Privacy
- * Social Media Filtering
- * Analytics
+ * Clean up Social Media
+ * Spy on Native Apps
 
 ## Enhanced Privacy
 Your Bubble is blocking a lot of behavior trackers, ads and ad networks, malware and lots more.
 
-We have enabled feedback on blocking on a select number of sites. For example:
+We have enabled feedback on blocking on a select number of sites: BlockParty will show you
+what it blocked to protect your privacy.
 
 ### Exercise 1 - view block statistics
-Navigate to a mainstream news website, for example https://nytimes.com/
+Navigate to a mainstream news website, for example https://chicagotribune.com/
 
 In the bottom-right corner, you will see a "stop sign" icon -- that's BlockParty in action!
 
@@ -19,7 +20,7 @@ The color of the stop-sign icon will be green if nothing nefarious was blocked, 
 
 You can click or tap on the icon to see what was blocked.
 
-## Social Media Filtering
+## Clean up Social Media
 Your Bubble brings user-blocking and keyword filters to many social media and discussion sites.
 
 **NOTE** these features will **not** work in native apps, you must use the web version of the service.
@@ -43,17 +44,31 @@ Click or tap the "Recent Blocks" section to see what's been blocked.
 
 Note your "signal/noise" ration -- this lower this is, the more stuff had to be blocked.
 
-## Analytics
+### Exercise 3 - more!
+Try exercise 2 on other sites supported by ShadowBan!
+
+The full list of ShadowBan-supported sites is:
+
+ * [Facebook](https://facebook.com)
+ * [LinkedIn](https://linkedin.com)
+ * [Twitter](https://twitter.com)
+ * [Instagram](https://instagram.com)
+ * [Reddit](https://reddit.com) 
+ * [Hacker News](https://news.ycombinator.com) 
+ * [Marginal Revolution](https://marginalrevolution.com) 
+ * [Reason](https://reason.com/blog) 
+
+## Spy on Native Apps
 Your Bubble can show you what sites your devices have been talking to.
 
-### Exercise 3 - anything look funny?
+### Exercise 4 - anything look funny?
 Navigate to the "Snitcher" app on your Bubble:
   * In one of your native apps, you can click the "My Account" icon
   * This opens a browser window to your account on your Bubble
   * In the navigation menu, choose "Apps", then click on the "Snitcher" app
   * Click or tap "Recent Traffic"
 
-Use a native app that you think might (or might not) be doing something shady.
+On your phone or tablet, use an app that you think might (or might not) be doing something shady.
 
 Refresh the Snitcher "Recent Traffic" view -- it should show details about any network requests your device just made while using the app.
 
