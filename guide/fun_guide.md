@@ -28,21 +28,21 @@ Your Bubble brings user-blocking and keyword filters to many social media and di
 ### Exercise 2 - clean up your Facebook feed
 Navigate to https://facebook.com/
 
-In the bottom-right corner, you will see a "block user" icon -- that's ShadowBan in action!
+In the bottom-right corner, you will see the ShadowBan icon -- that means ShadowBan in working for you!
 
-Next to every username, there is a block-user button. Click or tap this to block that user.
+Next to every username there is a mini ShadowBan icon; click or tap to block posts that include that user.
 
 Click or tap the ShadowBan icon in the bottom-right to see more ShadowBan options.
 
-Click or tap the "Keyword Lists" section to see different keyword lists that are available.
+In the ShadowBan options, click or tap the "Keyword Lists" section to see different keyword lists that are available.
 
-Click or tap the checkboxes to select the "US News Media" and "US Politics" lists, then press "Close"
+In the "Keyword Lists" section, click or tap the checkboxes to select the "US News Media" and "US Politics" lists, then press "Close"
 
-Scroll through your feed for a bit, then tap the ShadowBan icon in the bottom-right.
+Scroll through your feed for little while, then tap the ShadowBan icon in the bottom-right to see what got filtered out.
 
-Click or tap the "Recent Blocks" section to see what's been blocked.
+In the ShadowBan options, click or tap the "Recent Blocks" section to see what's been blocked.
 
-Note your "signal/noise" ration -- this lower this is, the more stuff had to be blocked.
+Also: note your "signal/noise" ration -- this lower this is, the more stuff that was blocked.
 
 ### Exercise 3 - more!
 Try exercise 2 on other sites supported by ShadowBan!
