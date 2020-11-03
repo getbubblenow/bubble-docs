@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.3.3 -- 2020 Nov 3
+Network filtering improvements
+
 ## Adventure 1.3.2 -- 2020 Oct 28
 Add strict security level, network performance improvements
 
