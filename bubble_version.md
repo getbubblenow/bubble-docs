@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.0 -- 2020 Nov 12
+Support launching from Mac OS X
+
 ## Adventure 1.3.3 -- 2020 Nov 3
 Network filtering improvements
 

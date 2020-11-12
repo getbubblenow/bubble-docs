@@ -2,16 +2,12 @@
 #### version 2.0.0
 Break through to a new level of personal data security and Internet experience! This will be our expanded beta release.
 
-*Target Release Date: December 2020*
+*Target Release Date: April 2021*
 
 ## What to Expect
 
 ### Even Faster Launch Time
 We're targeting a Bubble launch time under 5 minutes.
-
-### App-driven Sign Up
-Without first visiting the Bubble website, users can install a Bubble app, sign up and launch a new Bubble
-right from there.
 
 ### Nearly all of the Internet "Just Works"
 Our cert-pin detection should be fairly complete. It should be rare to find an app that doesn't work properly with Bubble.

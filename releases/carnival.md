@@ -5,7 +5,7 @@ Retake control of your social experience!
 
 This will be our first generally-available public release.
 
-*Target Release Date: April 2021*
+*Target Release Date: Late 2021*
 
 ## What to Expect
 
