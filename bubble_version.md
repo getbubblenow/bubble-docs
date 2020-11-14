@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.4 -- 2020 Nov 14
+Simple scripts to run launcher via docker
+
 ## Adventure 1.4.0 -- 2020 Nov 12
 Support launching from Mac OS X
 
