@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.5 -- 2020 Nov 14
+Better fallback behavior when geo services are unavailable
+
 ## Adventure 1.4.4 -- 2020 Nov 14
 Simple scripts to run launcher via docker
 
