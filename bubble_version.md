@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.6 -- 2020 Nov 14
+Allow upgrading standalone bubbles
+
 ## Adventure 1.4.5 -- 2020 Nov 14
 Better fallback behavior when geo services are unavailable
 
