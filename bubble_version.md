@@ -1,6 +1,6 @@
 # Bubble Version History
 
-## Adventure 1.4.7 -- 2020 Nov 14
+## Adventure 1.4.8 -- 2020 Nov 14
 Allow upgrading standalone bubbles
 
 ## Adventure 1.4.5 -- 2020 Nov 14
