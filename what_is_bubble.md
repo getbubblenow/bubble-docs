@@ -28,11 +28,11 @@ Your mobile devices are very chatty. Even when you are not using them, your devi
 ### Block Abusive Users
 Many websites and online services offer no way to block users. On services that do allow you to block users, it is usually easy for the people you've blocked to know that they've been blocked. Bubble allows you to block users across many different services, and when users are blocked on Bubble, the blocked user has no way of knowing; to them, they're not blocked; but you'll never see them again.
 
-## Bubble Roadmap
-The following apps and features are in development and will be released over the next several months:
-
 ### Selective Blocking
 Maybe you don't want to completely block a user, because they are a cherished member of your extended family. But for whatever reason they are constantly ranting about some topic. You want to see their posts, just not anything about this topic. You can block by keyword, or block all posts that link to some news websites, or all news websites.
+
+## Bubble Roadmap
+The following apps and features are in development and will be released over the next several months:
 
 ### Social Media Inbox
 Your Bubble can do things for you, to give you even more privacy. Every time you use a social network, you are entering a panopticon -- the social network is deciding what to show you, in what order. The social network is watching your every move. It knows what you looked at for a long time and what you just scrolled quickly past. It knows every link you clicked on, every mouse movement or screen-touch you made. To those of us at Bubble, this is an unacceptable price to pay for interacting with your friends.
