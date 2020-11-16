@@ -1,6 +1,6 @@
 # Bubble Version History
 
-## Adventure 1.4.12 -- 2020 Nov 14
+## Adventure 1.4.13 -- 2020 Nov 14
 Log server version at startup
 
 ## Adventure 1.4.10 -- 2020 Nov 14
