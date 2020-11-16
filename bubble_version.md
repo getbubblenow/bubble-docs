@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.17 -- 2020 Nov 16
+Allow setting admin email when launching new bubble; more docs, web fixes
+
 ## Adventure 1.4.16 -- 2020 Nov 16
 Easier setup for open source launchers
 
