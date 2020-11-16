@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.16 -- 2020 Nov 16
+Easier setup for open source launchers
+
 ## Adventure 1.4.15 -- 2020 Nov 16
 Simplify docker launcher usage
 
