@@ -1,6 +1,9 @@
 # Bubble Version History
 
-## Adventure 1.4.17 -- 2020 Nov 16
+## Adventure 1.4.19 -- 2020 Nov 17
+Add monitoring tools for PackerService to show status of running and completed image builds
+
+## Adventure 1.4.18 -- 2020 Nov 17
 Allow setting admin email when launching new bubble; more docs, web fixes
 
 ## Adventure 1.4.16 -- 2020 Nov 16
