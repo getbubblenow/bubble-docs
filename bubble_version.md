@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.20 -- 2020 Nov 17
+Fix database filtering when deploying
+
 ## Adventure 1.4.19 -- 2020 Nov 17
 Add monitoring tools for PackerService to show status of running and completed image builds
 
