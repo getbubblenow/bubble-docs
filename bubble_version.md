@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.23 -- 2020 Nov 18
+Minor deployment fixes
+
 ## Adventure 1.4.22 -- 2020 Nov 17
 Fix database filtering when deploying
 
