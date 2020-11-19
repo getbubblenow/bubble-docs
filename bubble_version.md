@@ -1,6 +1,6 @@
 # Bubble Version History
 
-## Adventure 1.4.25 -- 2020 Nov 19
+## Adventure 1.4.26 -- 2020 Nov 19
 Sage upgrades now working
 
 ## Adventure 1.4.24 -- 2020 Nov 19
