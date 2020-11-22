@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.29 -- 2020 Nov 22
+Fix supervisor reload bug preventing node deployment
+
 ## Adventure 1.4.28 -- 2020 Nov 21
 Rollback response header modification support to avoid hanging on some filtered requests
 
