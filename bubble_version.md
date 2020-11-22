@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.30 -- 2020 Nov 22
+Extend error column widths
+
 ## Adventure 1.4.29 -- 2020 Nov 22
 Fix supervisor reload bug preventing node deployment
 
