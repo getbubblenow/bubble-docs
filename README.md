@@ -25,4 +25,3 @@ Bubble stands firmly in favor of leveling the playing-field with the Technology 
 #### Join Bubble and retake control of your Internet.
 
 #### [Learn more about Bubble](what_is_bubble.md) – [Bubble on the web](bubble_links.md)
-
