@@ -1,5 +1,5 @@
-Bubble Resources
-================
+Bubble Links
+============
 
 ## [Bubble Website](https://getbubblenow.com)
 The Bubble public website. The fastest and easiest way to get started. Launch your Bubble today!
