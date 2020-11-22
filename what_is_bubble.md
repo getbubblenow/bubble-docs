@@ -83,4 +83,3 @@ Note that if you delete your Bubble or delete your account, all of your backups 
 
 ### Your Bubble can Move around the World
 You decide where in the world your Bubble runs. For best performance, you'll probably want to run it near your physical location, or at least in the same country. But you can run it wherever you want, and you can change your mind later: using Backup/Restore you can stop your Bubble in one place, and start it running again in another.
-
