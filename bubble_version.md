@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.28 -- 2020 Nov 21
+Rollback response header modification support to avoid hanging on some filtered requests
+
 ## Adventure 1.4.26 -- 2020 Nov 19
 Sage upgrades now working
 
