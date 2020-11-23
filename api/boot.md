@@ -2,8 +2,11 @@
 
 Using one special hard-coded URL, apps can bootstrap themselves to use the appropriate API endpoints.
 
+Apps can also skip this process entirely if the end user supplies the hostname of a Bubble.
+In this case, the app would assume that the API endpoint is `https://<hostname>/api`.
+
 ## Determining the Sage Base URI
-First, request the bootstrap URL: https://raw.githubusercontent.com/getbubblenow/bubble-config/master/boot.json
+First, request the bootstrap URL: [https://raw.githubusercontent.com/getbubblenow/bubble-config/master/boot.json](https://raw.githubusercontent.com/getbubblenow/bubble-config/master/boot.json)
 
 The contents of this JSON file look something like this:
 
