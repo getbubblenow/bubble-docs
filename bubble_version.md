@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.32 -- 2020 Nov 23
+Adventure - Release Candidate 1
+
 ## Adventure 1.4.31 -- 2020 Nov 23
 Fix web logout
 
