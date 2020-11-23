@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.31 -- 2020 Nov 23
+Fix web logout
+
 ## Adventure 1.4.30 -- 2020 Nov 22
 Extend error column widths
 
