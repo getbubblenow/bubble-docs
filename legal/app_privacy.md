@@ -50,7 +50,7 @@ In line with the GDPR, we collect and process the data outlined in this Privacy 
 You can exercise your rights under the GDPR to access, transfer, correct, delete or object to the processing of your personal information by contacting us at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com).
 
 # Changes to the Privacy Policy
-Our Privacy Policy may change from time to time. The latest version is available at [https://github.com/getbubblenow/bubble-docs/blob/master/legal/app_privacy.md](https://github.com/getbubblenow/bubble-docs/blob/master/legal/app_privacy.md). We will notify you of any major changes via the email address for your Bubble account. If your account does not have a valid email address associated with it, you will not receive the notification of changes to our Privacy Policy. Your continued use of the App constitutes your acceptance of our Privacy Policy.
+Our Privacy Policy may change from time to time. The latest version is available at [https://getbubblenow.com/app-privacy/](https://getbubblenow.com/app-privacy/). We will notify you of any major changes via the email address for your Bubble account. If your account does not have a valid email address associated with it, you will not receive the notification of changes to our Privacy Policy. Your continued use of the App constitutes your acceptance of our Privacy Policy.
 
 # How to Contact Bubble
 If you have any questions about our Privacy Policy and how we handle your information, please feel free to contact us via email at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com).
