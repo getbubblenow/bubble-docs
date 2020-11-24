@@ -83,3 +83,13 @@ Note that if you delete your Bubble or delete your account, all of your backups 
 
 ### Your Bubble can Move around the World
 You decide where in the world your Bubble runs. For best performance, you'll probably want to run it near your physical location, or at least in the same country. But you can run it wherever you want, and you can change your mind later: using Backup/Restore you can stop your Bubble in one place, and start it running again in another.
+
+## What's Next?
+Want to try out Bubble? Choose your adventure:
+
+**Fast and Easy**: Launch a Bubble today at [GetBubbleNow.com](https://GetBubbleNow.com)
+
+**Personal and Customized**: Self-launch your own Bubble with
+[Bubble open source software](https://git.bubblev.org/bubblev/bubble/src/branch/master/README.md)
+
+Need help? Check out the [Bubble Support Website](https://support.getbubblenow.com)
