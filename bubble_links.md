@@ -2,7 +2,8 @@ Bubble Links
 ============
 
 ## [Bubble Website](https://getbubblenow.com)
-The Bubble public website. The fastest and easiest way to get started. Launch your Bubble today!
+The Bubble public website. The fastest and easiest way to get started.
+[Launch your Bubble today!](https://getbubblenow.com)
 
 ## [Bubble Git Server](https://git.bubblev.org/bubblev)
 Everything we do is open source. Here is all our code.
