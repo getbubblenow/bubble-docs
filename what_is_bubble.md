@@ -8,7 +8,7 @@ When your phone or computer is connected to a VPN, all of its network traffic wi
 Using a VPN gives you some privacy protection against snooping ISPs, mobile carriers and online services. The downside is that you must place a lot of trust in your VPN provider, who now carries all of your traffic. Your VPN provider also likely operates a shared "multi-tenant" system, meaning that many other VPN users are sharing the same computer systems you are for their Internet. If one VPN customer, or a malicious actor, breaches the VPN's security, the "blast radius" of that breach could expose the traffic of all the VPN users.
 
 ## Your Bubble is Yours Alone
-When you launch your Bubble, it is yours and yours alone. No traffic from other Bubble users will use your Bubble.  When you launch a Bubble on [getbubblenow.com](getbubblenow.com), one of the first steps we take is throwing away the key.
+When you launch your Bubble, it is yours and yours alone. No traffic from other Bubble users will use your Bubble.  When you launch a Bubble on [GetBubbleNow.com](GetBubbleNow.com), one of the first steps we take is throwing away the key.
 
 ## Your Bubble is Open Source
 We have published all of our source code under an open source license to provide additional trust and transparency. If you really don't trust that we actually throw away the key, you are free to launch your own Bubble without using our service. Open source makes this possible.
