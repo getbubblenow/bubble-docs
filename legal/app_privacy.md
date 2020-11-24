@@ -1,50 +1,29 @@
 Bubble Inc. App Privacy Policy
 ==============================
 
-Bubble, Inc. ("Bubble", "we", "our" or "us") is committed to protecting your privacy.
-We want you to understand what information we collect and what information we do not collect.
-In addition, we want you to understand how we collect, use, and store your information.
-This document describes the privacy policy for the Bubble SecurityCloud Application ("App") that
-you can install on your device.
+Bubble, Inc. ("Bubble", "we", "our" or "us") is committed to protecting your privacy. We want you to understand what information we collect and what information we do not collect. In addition, we want you to understand how we collect, use, and store your information. This document describes the privacy policy for the Bubble SecurityCloud Application ("App") that you can install on your device.
 
-The App does not collect logs of your activity, including browsing history, traffic destination,
-data content, or DNS queries.  We also never collect or store connection logs, or in other words,
-logs of your IP address, your outgoing VPN address, connection timestamp, or session duration. 
+The App does not collect logs of your activity, including browsing history, traffic destination, data content, or DNS queries.  We also never collect or store connection logs, or in other words, logs of your IP address, your outgoing VPN address, connection timestamp, or session duration. 
 
-We will collect as little data about you as we can and only what is absolutely required to use
-our service.  We have engineered our system to limit the data that we have about our customers.
+We will collect as little data about you as we can and only what is absolutely required to use our service.  We have engineered our system to limit the data that we have about our customers.
 
 # Personal Information
-The App requires you to enter your email address and password to sign in.
-We use this email address and password to authenticate your account and sign you in, and
-for no other purpose.
+The App requires you to enter your email address and password to sign in. We use this email address and password to authenticate your account and sign you in, and for no other purpose.
 
 The App does not collect any other personal information.
 
 # Error Reporting
-When your Bubble encounters certain irrecoverable error conditions, you will be asked if you
-would like to send an error report to a Bubble error receiver. These error reports include the
-hostname of your Bubble, and may contain log information or stack traces. Error reports will
-never include passwords, API keys, or other secret information.
+When your Bubble encounters certain irrecoverable error conditions, you will be asked if you would like to send an error report to a Bubble error receiver. These error reports include the hostname of your Bubble, and may contain log information or stack traces. Error reports will never include passwords, API keys, or other secret information.
 
 # Cookies and User Identifiers
-Bubble does not use cookies.
-If your device receives a cookie in any response from Bubble, please contact us at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com)
-so we can investigate and remove the cookie.
+Bubble does not use cookies. If your device receives a cookie in any response from Bubble, please contact us at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com) so we can investigate and remove the cookie.
 
-Our Support Website, powered by ZenDesk, does set cookies, and unfortunately there is no way for us to disable them.
-If you click the "Help" button in the App, your browser will receive cookies from ZenDesk.
-These cookies allow Bubble to collate your support activity and improve our overall support process.
+Our Support Website, powered by ZenDesk, does set cookies, and unfortunately there is no way for us to disable them. If you click the "Help" button in the App, your browser will receive cookies from ZenDesk. These cookies allow Bubble to collate your support activity and improve our overall support process.
 
-When you sign in to the App, a session identifier will be stored on your device.
-This allows your login session to proceed and for you to administer your account and your Bubble.
-You can erase this information at any time by signing out of the App.
+When you sign in to the App, a session identifier will be stored on your device. This allows your login session to proceed and for you to administer your account and your Bubble. You can erase this information at any time by signing out of the App.
 
 # Third-party Cookies
-With the exception of our Support Website, Bubble does not use any cookies, including
-third-party cookies. If your device receives a cookie in any response from Bubble, please
-contact us at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com) so
-we can investigate and remove the cookie.
+With the exception of our Support Website, Bubble does not use any cookies, including third-party cookies. If your device receives a cookie in any response from Bubble, please contact us at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com) so we can investigate and remove the cookie.
 
 # Access to and Control Over Your Information
 You can do any of the following at any time by contacting us at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com):
@@ -55,11 +34,9 @@ You can do any of the following at any time by contacting us at [privacy@getbubb
  * Express any concern you have about our use of your data
 
 # Users in the European Union
-The General Data Protection Regulation (GDPR) of the European Union (EU) requires us to outline
-privacy practices in a specific manner for users in the EU.
+The General Data Protection Regulation (GDPR) of the European Union (EU) requires us to outline privacy practices in a specific manner for users in the EU.
 
-In line with the GDPR, we collect and process the data outlined in this Privacy Policy on one of
-the following bases, depending on the circumstances:
+In line with the GDPR, we collect and process the data outlined in this Privacy Policy on one of the following bases, depending on the circumstances:
 
  * For the purpose of fulfilling our contractual obligations to users, including:
  * Providing users with the Services and Apps they have requested;
@@ -70,16 +47,10 @@ the following bases, depending on the circumstances:
  * Communicating with customers to provide information and seek feedback related to our Services and Apps.
  * With the consent of users, which users can withdraw at any time.
 
-You can exercise your rights under the GDPR to access, transfer, correct, delete or object to the
-processing of your personal information by contacting us at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com).
+You can exercise your rights under the GDPR to access, transfer, correct, delete or object to the processing of your personal information by contacting us at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com).
 
 # Changes to the Privacy Policy
-Our Privacy Policy may change from time to time.
-The latest version is available at [https://github.com/getbubblenow/bubble-docs/blob/master/legal/app_privacy.md](https://github.com/getbubblenow/bubble-docs/blob/master/legal/app_privacy.md).
-We will notify you of any major changes via the email address for your Bubble account.
-If your account does not have a valid email address associated with it, you will not receive the notification of changes to our Privacy Policy.
-Your continued use of the App constitutes your acceptance of our Privacy Policy.
+Our Privacy Policy may change from time to time. The latest version is available at [https://github.com/getbubblenow/bubble-docs/blob/master/legal/app_privacy.md](https://github.com/getbubblenow/bubble-docs/blob/master/legal/app_privacy.md). We will notify you of any major changes via the email address for your Bubble account. If your account does not have a valid email address associated with it, you will not receive the notification of changes to our Privacy Policy. Your continued use of the App constitutes your acceptance of our Privacy Policy.
 
 # How to Contact Bubble
-If you have any questions about our Privacy Policy and how we handle your information, please
-feel free to contact us via email at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com).
+If you have any questions about our Privacy Policy and how we handle your information, please feel free to contact us via email at [privacy@getbubblenow.com](mailto:privacy@getbubblenow.com).
