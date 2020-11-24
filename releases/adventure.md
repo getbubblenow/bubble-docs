@@ -1,6 +1,6 @@
 # Adventure
 #### version 1.4.32
-Come join us on a great adventure! This is our pre-release evaluation version.
+Come join us on a great adventure!
 
 *Released: November 2020*
 
