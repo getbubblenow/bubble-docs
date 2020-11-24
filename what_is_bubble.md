@@ -1,5 +1,4 @@
 # What is Bubble?
-
 Bubble is a new way to use the Internet that enhances your online privacy, helps cut out the "noise" to give you more "signal" and provides many other enhancements to your Internet experience.
 
 ## Your Bubble is a Virtual Private Network (VPN)
@@ -11,7 +10,7 @@ Using a VPN gives you some privacy protection against snooping ISPs, mobile carr
 When you launch your Bubble, it is yours and yours alone. No traffic from other Bubble users will use your Bubble.  When you launch a Bubble on [GetBubbleNow.com](GetBubbleNow.com), one of the first steps we take is throwing away the key.
 
 ## Your Bubble is Open Source
-We have published all of our source code under an open source license to provide additional trust and transparency. If you really don't trust that we actually throw away the key, you are free to launch your own Bubble without using our service. Open source makes this possible.
+We have published all of our source code under an open source license to provide additional trust and transparency. If you really don't trust that we actually throw away the key, you are free to [launch your own Bubble](https://git.bubblev.org/bubblev/bubble/src/branch/master/README.md) without using our service. Open source makes this possible.
 
 ## Your Bubble can Modify Network Traffic
 Bubble implements a pattern known as a "man-in-the-middle attack". In common parlance, this type of attack is associated with nefarious actors who want to spy on your encrypted network traffic or trick you into thinking you are on a legitimate website (for example your bank) when in fact you are sending all of your traffic to them. With Bubble, we turn this on its head. You are "attacking" yourself, with the end goal of improving your Internet experience. This allows for many exciting possibilities:
