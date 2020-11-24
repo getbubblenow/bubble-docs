@@ -2,9 +2,11 @@
 Create and manage plans and payment methods.
 
 **Note for Open Source Bubbles**:
-A Bubble launched using the Bubble open source code will still have plans, because a plan determines a lot
-of things (compute instance size, apps, etc). However, all plans will have a price of zero
-and any payment steps during registration or launch are skipped.
+A Bubble launched using the [open source code](https://git.bubblev.org/bubblev/bubble) will still have plans,
+because a plan determines a lot of things (compute instance size, apps, etc).
+However, all plans will have a price of zero and any payment steps during registration or launch are skipped.
+
+----
 
 ## List Bubble Plans
 
