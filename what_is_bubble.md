@@ -88,7 +88,7 @@ Want to try out Bubble? Choose your adventure:
 
 **Fast and Easy**: Launch a Bubble today at [GetBubbleNow.com](https://GetBubbleNow.com)
 
-**Personal and Customized**: Self-launch your own Bubble with
+**Personal and Customized**: Self-host your own Bubble with
 [Bubble open source software](https://git.bubblev.org/bubblev/bubble/src/branch/master/README.md)
 
 Need help? Check out the [Bubble Support Website](https://support.getbubblenow.com)
