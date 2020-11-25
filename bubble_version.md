@@ -1,5 +1,8 @@
 # Bubble Version History
 
+## Adventure 1.4.33 -- 2020 Nov 25
+Adventure - Release Candidate 3
+
 ## Adventure 1.4.33 -- 2020 Nov 24
 Adventure - Release Candidate 2
 
