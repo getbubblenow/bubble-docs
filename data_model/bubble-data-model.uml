@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account</OriginalElement>
+  <nodes>
+    <node x="1560.8888602554784" y="1295.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_policy</node>
+    <node x="2895.630795739349" y="2759.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node</node>
+    <node x="91.88763440860248" y="1240.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.rule_driver</node>
+    <node x="2833.0046355808895" y="1740.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service_data</node>
+    <node x="3252.0046355808895" y="1729.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_ssh_key</node>
+    <node x="2798.130795739349" y="3389.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.received_notification</node>
+    <node x="1802.9830493572645" y="501.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account</node>
+    <node x="4017.107392473118" y="0.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.flyway_schema_history</node>
+    <node x="500.95894069851965" y="3378.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_data</node>
+    <node x="3246.630795739349" y="2803.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan</node>
+    <node x="2440.688037634409" y="1641.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.promotion</node>
+    <node x="1174.8251344086025" y="3488.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.trusted_client</node>
+    <node x="77.47096774193551" y="2251.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_rule</node>
+    <node x="1366.8251344086025" y="3400.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.flex_router</node>
+    <node x="2710.2249848411357" y="1306.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.referral_code</node>
+    <node x="1215.3251344086025" y="2902.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.device</node>
+    <node x="1498.6388602554784" y="2869.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_message</node>
+    <node x="370.8876344086025" y="2306.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan_app</node>
+    <node x="1931.9749848411357" y="2913.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_backup</node>
+    <node x="258.3459677419355" y="2814.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_matcher</node>
+    <node x="0.0" y="4221.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment_archived</node>
+    <node x="3423.9219086021512" y="3433.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node_key</node>
+    <node x="2069.188037634409" y="2108.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network</node>
+    <node x="1761.4830493572647" y="0.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan</node>
+    <node x="3026.0046355808895" y="1707.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_domain</node>
+    <node x="631.3251344086025" y="2240.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_site</node>
+    <node x="2424.2249848411357" y="1240.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service</node>
+    <node x="3188.130795739349" y="3813.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment</node>
+    <node x="2329.188037634409" y="2262.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment_method</node>
+    <node x="486.3251344086025" y="1685.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_app</node>
+    <node x="949.3251344086023" y="2262.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_message</node>
+    <node x="1877.8888602554784" y="1284.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_footprint</node>
+    <node x="3679.9219086021512" y="3400.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bill</node>
+    <node x="3051.130795739349" y="3389.0">f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.sent_notification</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.trusted_client" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.device">
+      <point x="43.0" y="-82.5" />
+      <point x="1303.8251344086025" y="3358.0" />
+      <point x="1316.8251344086025" y="3358.0" />
+      <point x="0.0" y="126.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_matcher" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_rule">
+      <point x="-94.875" y="-214.5" />
+      <point x="289.9709677419355" y="2739.0" />
+      <point x="187.9709677419355" y="2739.0" />
+      <point x="0.0" y="137.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_message" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_app">
+      <point x="-61.25" y="-126.5" />
+      <point x="1010.5751344086023" y="2088.0" />
+      <point x="722.8251344086025" y="2088.0" />
+      <point x="107.5" y="159.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="93.60000000000014" y="-181.5" />
+      <point x="3398.7307957393496" y="3793.0" />
+      <point x="3919.4219086021512" y="3793.0" />
+      <point x="3919.4219086021512" y="1080.0" />
+      <point x="2039.1120816153293" y="1080.0" />
+      <point x="116.12903225806485" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_data" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_app">
+      <point x="0.0" y="-192.5" />
+      <point x="586.9589406985197" y="3338.0" />
+      <point x="620.8251344086025" y="3338.0" />
+      <point x="620.8251344086025" y="2088.0" />
+      <point x="636.8251344086025" y="2088.0" />
+      <point x="21.5" y="159.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_ssh_key">
+      <point x="96.0" y="-280.5" />
+      <point x="2285.188037634409" y="2088.0" />
+      <point x="3317.0046355808895" y="2088.0" />
+      <point x="-65.0" y="115.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan_app" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_app">
+      <point x="56.666666666666515" y="-82.5" />
+      <point x="512.554301075269" y="2088.0" />
+      <point x="550.8251344086025" y="2088.0" />
+      <point x="-64.5" y="159.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_policy" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="0.0" y="-115.5" />
+      <point x="1708.8888602554784" y="1210.0" />
+      <point x="1915.2411138733937" y="1210.0" />
+      <point x="-7.741935483870748" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node_key" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="59.0" y="-137.5" />
+      <point x="3600.9219086021512" y="1100.0" />
+      <point x="2023.6282106475874" y="1100.0" />
+      <point x="100.6451612903229" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network">
+      <point x="-97.5" y="-225.5" />
+      <point x="3266.130795739349" y="2709.0" />
+      <point x="2285.188037634409" y="2709.0" />
+      <point x="96.0" y="280.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_ssh_key">
+      <point x="19.5" y="-225.5" />
+      <point x="3383.130795739349" y="2709.0" />
+      <point x="3447.0046355808895" y="2709.0" />
+      <point x="65.0" y="115.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service_data" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service">
+      <point x="-43.25" y="-104.5" />
+      <point x="2876.2546355808895" y="1611.0" />
+      <point x="2623.7249848411357" y="1611.0" />
+      <point x="66.5" y="170.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan_app" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan">
+      <point x="-56.666666666666515" y="-82.5" />
+      <point x="399.22096774193597" y="2068.0" />
+      <point x="40.00000000000023" y="2068.0" />
+      <point x="40.00000000000023" y="481.0" />
+      <point x="1842.2330493572647" y="481.0" />
+      <point x="-80.75" y="225.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-116.12903225806451" y="269.5" />
+      <point x="1806.8540170992" y="1060.0" />
+      <point x="1782.9830493572645" y="1060.0" />
+      <point x="1782.9830493572645" y="770.5" />
+      <point x="-120.0" y="-0.0" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_backup" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-42.75" y="-115.5" />
+      <point x="1974.7249848411357" y="2709.0" />
+      <point x="1867.3888602554784" y="2709.0" />
+      <point x="1867.3888602554784" y="1220.0" />
+      <point x="1922.9830493572645" y="1220.0" />
+      <point x="0.0" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_domain" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="51.5" y="-137.5" />
+      <point x="3180.5046355808895" y="1150.0" />
+      <point x="1984.9185332282323" y="1150.0" />
+      <point x="61.9354838709678" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_site" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="74.5" y="-148.5" />
+      <point x="854.8251344086025" y="1140.0" />
+      <point x="1861.0475654862967" y="1140.0" />
+      <point x="-61.9354838709678" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_ssh_key" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="0.0" y="-115.5" />
+      <point x="3382.0046355808895" y="1140.0" />
+      <point x="1992.6604687121035" y="1140.0" />
+      <point x="69.677419354839" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bill">
+      <point x="46.799999999999955" y="-181.5" />
+      <point x="3351.9307957393494" y="3783.0" />
+      <point x="3794.4219086021512" y="3783.0" />
+      <point x="0.0" y="170.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_data" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.device">
+      <point x="68.80000000000018" y="-192.5" />
+      <point x="655.7589406985198" y="3358.0" />
+      <point x="1249.158467741936" y="3358.0" />
+      <point x="-67.66666666666652" y="126.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_message" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-51.75" y="-159.5" />
+      <point x="1550.3888602554784" y="1200.0" />
+      <point x="1907.4991783895225" y="1200.0" />
+      <point x="-15.48387096774195" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment_method">
+      <point x="-46.799999999999955" y="-181.5" />
+      <point x="3258.3307957393495" y="3783.0" />
+      <point x="2396.688037634409" y="3783.0" />
+      <point x="-67.5" y="126.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment_method" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service">
+      <point x="0.0" y="-126.5" />
+      <point x="2464.188037634409" y="2068.0" />
+      <point x="2430.188037634409" y="2068.0" />
+      <point x="2430.188037634409" y="1621.0" />
+      <point x="2490.7249848411357" y="1621.0" />
+      <point x="-66.5" y="170.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node">
+      <point x="-120.83333333333337" y="269.5" />
+      <point x="2919.797462406016" y="3318.0" />
+      <point x="2875.630795739349" y="3318.0" />
+      <point x="2875.630795739349" y="3028.5" />
+      <point x="-145.0" y="-0.0" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_rule" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-73.66666666666652" y="-137.5" />
+      <point x="114.304301075269" y="2088.0" />
+      <point x="81.38763440860248" y="2088.0" />
+      <point x="81.38763440860248" y="1090.0" />
+      <point x="1822.337888066942" y="1090.0" />
+      <point x="-100.64516129032245" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.sent_notification" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node">
+      <point x="0.0" y="-181.5" />
+      <point x="3166.630795739349" y="3358.0" />
+      <point x="3113.130795739349" y="3358.0" />
+      <point x="72.5" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bill" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan">
+      <point x="-76.33333333333331" y="-170.5" />
+      <point x="3718.088575268818" y="3338.0" />
+      <point x="3422.130795739349" y="3338.0" />
+      <point x="58.5" y="225.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="58.5" y="-225.5" />
+      <point x="3422.130795739349" y="2729.0" />
+      <point x="3585.4380376344093" y="2729.0" />
+      <point x="3585.4380376344093" y="1120.0" />
+      <point x="2008.1443396798454" y="1120.0" />
+      <point x="85.16129032258095" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bill" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="0.0" y="-170.5" />
+      <point x="3794.4219086021512" y="1090.0" />
+      <point x="2031.3701461314581" y="1090.0" />
+      <point x="108.38709677419365" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan_app" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="0.0" y="-82.5" />
+      <point x="455.8876344086025" y="1120.0" />
+      <point x="1845.5636945185547" y="1120.0" />
+      <point x="-77.41935483870975" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan">
+      <point x="-60.0" y="-269.5" />
+      <point x="1862.9830493572645" y="481.0" />
+      <point x="1896.0663826905982" y="481.0" />
+      <point x="-26.916666666666515" y="225.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.flex_router" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="44.75" y="-170.5" />
+      <point x="1501.0751344086025" y="3358.0" />
+      <point x="1480.3969247716072" y="3358.0" />
+      <point x="1480.3969247716072" y="1180.0" />
+      <point x="1892.0153074217806" y="1180.0" />
+      <point x="-30.9677419354839" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_rule" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_app">
+      <point x="73.66666666666652" y="-137.5" />
+      <point x="261.637634408602" y="2078.0" />
+      <point x="507.8251344086025" y="2078.0" />
+      <point x="-107.5" y="159.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_matcher" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_app">
+      <point x="31.625" y="-214.5" />
+      <point x="416.4709677419355" y="2729.0" />
+      <point x="562.6376344086025" y="2729.0" />
+      <point x="562.6376344086025" y="2088.0" />
+      <point x="593.8251344086025" y="2088.0" />
+      <point x="-21.5" y="159.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service">
+      <point x="0.0" y="-280.5" />
+      <point x="2189.188037634409" y="2088.0" />
+      <point x="2221.9641290726827" y="2088.0" />
+      <point x="2221.9641290726827" y="1611.0" />
+      <point x="2446.391651507802" y="1611.0" />
+      <point x="-110.83333333333337" y="170.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="0.0" y="-170.5" />
+      <point x="2557.2249848411357" y="1190.0" />
+      <point x="1953.9507912927484" y="1190.0" />
+      <point x="30.9677419354839" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_matcher" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-31.625" y="-214.5" />
+      <point x="353.2209677419355" y="2739.0" />
+      <point x="360.3876344086025" y="2739.0" />
+      <point x="360.3876344086025" y="1110.0" />
+      <point x="1837.821759034684" y="1110.0" />
+      <point x="-85.1612903225805" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-48.0" y="-280.5" />
+      <point x="2141.188037634409" y="2078.0" />
+      <point x="2192.3888602554784" y="2078.0" />
+      <point x="2192.3888602554784" y="1210.0" />
+      <point x="1938.4669203250064" y="1210.0" />
+      <point x="15.48387096774195" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node_key" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node">
+      <point x="-59.0" y="-137.5" />
+      <point x="3482.9219086021512" y="3348.0" />
+      <point x="3161.4641290726827" y="3348.0" />
+      <point x="120.83333333333326" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment_method" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-90.0" y="-126.5" />
+      <point x="2374.188037634409" y="2068.0" />
+      <point x="2200.1307957393497" y="2068.0" />
+      <point x="2200.1307957393497" y="1200.0" />
+      <point x="1946.2088558088776" y="1200.0" />
+      <point x="23.225806451613153" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_data" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-68.80000000000018" y="-192.5" />
+      <point x="518.1589406985195" y="3358.0" />
+      <point x="53.850000000000136" y="3358.0" />
+      <point x="53.850000000000136" y="1080.0" />
+      <point x="1814.5959525830708" y="1080.0" />
+      <point x="-108.38709677419365" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="26.916666666666515" y="225.5" />
+      <point x="1949.8997160239312" y="481.0" />
+      <point x="1982.9830493572645" y="481.0" />
+      <point x="60.0" y="-269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan">
+      <point x="0.0" y="-181.5" />
+      <point x="-58.5" y="225.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network">
+      <point x="-108.75" y="-269.5" />
+      <point x="2931.880795739349" y="2739.0" />
+      <point x="2237.188037634409" y="2739.0" />
+      <point x="48.0" y="280.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.device" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network">
+      <point x="50.75" y="-126.5" />
+      <point x="1367.5751344086025" y="2719.0" />
+      <point x="2093.188037634409" y="2719.0" />
+      <point x="-96.0" y="280.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bill" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan">
+      <point x="76.33333333333326" y="-170.5" />
+      <point x="3870.7552419354843" y="3358.0" />
+      <point x="3943.1073924731186" y="3358.0" />
+      <point x="3943.1073924731186" y="471.0" />
+      <point x="2057.5663826905984" y="471.0" />
+      <point x="134.58333333333348" y="225.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment_method">
+      <point x="-58.5" y="-225.5" />
+      <point x="3305.130795739349" y="2699.0" />
+      <point x="2531.688037634409" y="2699.0" />
+      <point x="67.5" y="126.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_message" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="61.25" y="-126.5" />
+      <point x="1133.0751344086023" y="1150.0" />
+      <point x="1868.7895009701679" y="1150.0" />
+      <point x="-54.1935483870966" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service">
+      <point x="-36.25" y="-269.5" />
+      <point x="3004.380795739349" y="2729.0" />
+      <point x="2679.188037634409" y="2729.0" />
+      <point x="2679.188037634409" y="1621.0" />
+      <point x="2579.391651507802" y="1621.0" />
+      <point x="22.166666666666742" y="170.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.trusted_client" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-43.0" y="-82.5" />
+      <point x="1217.8251344086025" y="3348.0" />
+      <point x="1204.8251344086025" y="3348.0" />
+      <point x="1204.8251344086025" y="1160.0" />
+      <point x="1876.5314364540386" y="1160.0" />
+      <point x="-46.45161290322585" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_rule" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.rule_driver">
+      <point x="0.0" y="-137.5" />
+      <point x="187.9709677419355" y="2088.0" />
+      <point x="220.88763440860248" y="2088.0" />
+      <point x="0.0" y="170.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.promotion" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service">
+      <point x="0.0" y="-203.5" />
+      <point x="2554.688037634409" y="1621.0" />
+      <point x="2535.0583181744687" y="1621.0" />
+      <point x="-22.16666666666663" y="170.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_data" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_site">
+      <point x="34.40000000000009" y="-192.5" />
+      <point x="621.3589406985197" y="3348.0" />
+      <point x="854.8251344086025" y="3348.0" />
+      <point x="74.5" y="148.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_site" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_app">
+      <point x="-74.5" y="-148.5" />
+      <point x="705.8251344086025" y="2088.0" />
+      <point x="679.8251344086025" y="2088.0" />
+      <point x="64.5" y="159.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_app" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="0.0" y="-159.5" />
+      <point x="615.3251344086025" y="1130.0" />
+      <point x="1853.305630002426" y="1130.0" />
+      <point x="-69.67741935483855" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_domain">
+      <point x="48.0" y="-280.5" />
+      <point x="2237.188037634409" y="2078.0" />
+      <point x="3060.337968914223" y="2078.0" />
+      <point x="-68.66666666666663" y="137.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_domain">
+      <point x="36.25" y="-269.5" />
+      <point x="3076.880795739349" y="2739.0" />
+      <point x="3129.0046355808895" y="2739.0" />
+      <point x="0.0" y="137.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_message" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network">
+      <point x="51.75" y="-159.5" />
+      <point x="1653.8888602554784" y="2729.0" />
+      <point x="2141.188037634409" y="2729.0" />
+      <point x="-48.0" y="280.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_backup" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network">
+      <point x="42.75" y="-115.5" />
+      <point x="2060.2249848411357" y="2739.0" />
+      <point x="2189.188037634409" y="2739.0" />
+      <point x="0.0" y="280.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_network" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_footprint">
+      <point x="-96.0" y="-280.5" />
+      <point x="2093.188037634409" y="2088.0" />
+      <point x="2029.8888602554784" y="2088.0" />
+      <point x="0.0" y="126.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_data" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_matcher">
+      <point x="-34.40000000000009" y="-192.5" />
+      <point x="552.5589406985196" y="3348.0" />
+      <point x="384.8459677419355" y="3348.0" />
+      <point x="0.0" y="214.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.flex_router" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.device">
+      <point x="-44.75" y="-170.5" />
+      <point x="1411.5751344086025" y="3358.0" />
+      <point x="1384.491801075269" y="3358.0" />
+      <point x="67.66666666666652" y="126.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_matcher" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.app_site">
+      <point x="94.875" y="-214.5" />
+      <point x="479.7209677419355" y="2739.0" />
+      <point x="705.8251344086025" y="2739.0" />
+      <point x="-74.5" y="148.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_footprint" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="2.2737367544323206E-13" y="-126.5" />
+      <point x="2029.8888602554784" y="1220.0" />
+      <point x="1930.7249848411357" y="1220.0" />
+      <point x="7.7419354838712025" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="108.75" y="-269.5" />
+      <point x="3149.380795739349" y="2719.0" />
+      <point x="3522.5046355808895" y="2719.0" />
+      <point x="3522.5046355808895" y="1130.0" />
+      <point x="2000.4024041959742" y="1130.0" />
+      <point x="77.41935483870975" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan">
+      <point x="-93.60000000000014" y="-181.5" />
+      <point x="3211.5307957393493" y="3793.0" />
+      <point x="29.000000000000227" y="3793.0" />
+      <point x="29.000000000000227" y="471.0" />
+      <point x="1788.3997160239312" y="471.0" />
+      <point x="-134.58333333333348" y="225.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.sent_notification" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="77.0" y="-181.5" />
+      <point x="3243.630795739349" y="3358.0" />
+      <point x="3593.17997311828" y="3358.0" />
+      <point x="3593.17997311828" y="1110.0" />
+      <point x="2015.8862751637162" y="1110.0" />
+      <point x="92.9032258064517" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.referral_code" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="57.25" y="-104.5" />
+      <point x="2881.9749848411357" y="1170.0" />
+      <point x="1969.4346622604903" y="1170.0" />
+      <point x="46.45161290322585" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_domain">
+      <point x="-19.5" y="-225.5" />
+      <point x="3344.130795739349" y="2689.0" />
+      <point x="3238.9641290726827" y="2689.0" />
+      <point x="3238.9641290726827" y="2078.0" />
+      <point x="3197.671302247556" y="2078.0" />
+      <point x="68.66666666666674" y="137.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.received_notification" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-77.66666666666674" y="-181.5" />
+      <point x="2836.9641290726827" y="3348.0" />
+      <point x="1488.1388602554784" y="3348.0" />
+      <point x="1488.1388602554784" y="1190.0" />
+      <point x="1899.7572429056518" y="1190.0" />
+      <point x="-23.225806451612698" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.rule_driver" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="0.0" y="-170.5" />
+      <point x="220.88763440860248" y="1100.0" />
+      <point x="1830.0798235508128" y="1100.0" />
+      <point x="-92.9032258064517" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_domain" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service">
+      <point x="-51.5" y="-137.5" />
+      <point x="3077.5046355808895" y="1601.0" />
+      <point x="2668.0583181744687" y="1601.0" />
+      <point x="110.83333333333337" y="170.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.cloud_service_data" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="43.25" y="-104.5" />
+      <point x="2962.7546355808895" y="1160.0" />
+      <point x="1977.1765977443615" y="1160.0" />
+      <point x="54.19354838709705" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_payment_method" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.promotion">
+      <point x="90.0" y="-126.5" />
+      <point x="0.0" y="203.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account_plan" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_plan">
+      <point x="97.5" y="-225.5" />
+      <point x="3461.130795739349" y="2739.0" />
+      <point x="3932.1073924731186" y="2739.0" />
+      <point x="3932.1073924731186" y="481.0" />
+      <point x="2003.7330493572647" y="481.0" />
+      <point x="80.75" y="225.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.received_notification" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.bubble_node">
+      <point x="77.66666666666663" y="-181.5" />
+      <point x="2992.297462406016" y="3358.0" />
+      <point x="3016.4641290726827" y="3358.0" />
+      <point x="-24.16666666666663" y="269.5" />
+    </edge>
+    <edge source="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.device" target="f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account">
+      <point x="-50.75" y="-126.5" />
+      <point x="1266.0751344086025" y="1170.0" />
+      <point x="1884.2733719379098" y="1170.0" />
+      <point x="-38.70967741935465" y="269.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.10907859078590786" x="2108.0" y="2204.0" />
+  <SelectedNodes>
+    <node>f3b3c165-2514-43d4-9f5f-c4fb4f3060b2.TABLE:bubble.public.account</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
