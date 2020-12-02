@@ -3,6 +3,10 @@ Bubble API Guide
 
 The Bubble API is a REST/JSON API used by the web interface and native clients to communicate with Bubble.
 
+This guide is a walk-through of the various things a typical Bubble client would want to do.
+
+The full API is documented in the [Bubble API Reference](https://app.getbubblenow.com/apidocs/)
+
 ## [General Conventions](general.md)
 The general conventions used throughout the Bubble API.
 
