@@ -2,7 +2,7 @@
 
 ## Adventure 1.4.42 -- 2020 Dec 3
 Adventure - Release Candidate 5
-Adds OpenAPI support, automatic API reference documentation, and a much smaller jar file
+Adds OpenAPI support, automatic API reference documentation, a much smaller jar file and automatic updates
 
 ## Adventure 1.4.35 -- 2020 Nov 25
 Adventure - Release Candidate 4
