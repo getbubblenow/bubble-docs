@@ -26,10 +26,3 @@ In order to support multi-node networks, Bubble will:
   * Add a transparent PostgreSQL pooling technology to provide everywhere-hot-active across all peers. Currently, [Pgpool-II](https://www.pgpool.net/) is looking fairly interesting. Open to other suggestions.
   * Add [Redis cluster](https://redis.io/topics/cluster-tutorial) to keep Redis in sync across peer nodes.
   * Possibly: add [etcd](https://etcd.io/) to share configuration information across nodes.
-
-# Start a new Bubble from scratch
-
-  * Set up a Bubble [development environment](dev_setup.md)
-  * Run the `LaunchSageTest` to launch a new standalone Sage Node
-  * Use the new Sage Node to start a new Bubble
-

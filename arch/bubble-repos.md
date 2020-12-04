@@ -4,9 +4,8 @@
 The primary repository, contains the code for the Bubble API. Building this repository will build everything you need to start a local Bubble Boot Launcher, from which you can fork a proper cloud-based Bubble Launcher, which can then launch individual Bubbles.
 
 This repository contains:
- * `automation`: the ansible roles to setup a new Bubble
- * `bubble-server`: the Bubble API
- * `bin`: scripts for working with Bubbles, including convenience scripts for working with the Bubble API 
+ * `bubble-server`: the Bubble API, the nerve center of your Bubble
+ * `bin`: scripts for working with Bubbles, including convenience scripts for working with the API 
  * `bubble-web`: a submodule containing the front-end UI code
  * `utils`: utility code submodules 
 
@@ -26,9 +25,6 @@ General utility code, used throughout bubble, and by other utility code
 
 #### utils/[cobbzilla-wizard](https://git.bubblev.org/bubblev/cobbzilla-wizard)
 A long-ago fork of DropWizard, cobbzilla-wizard is a simple framework for building Jersey/JAX-RS APIs
-
-#### utils/[restex](https://git.bubblev.org/bubblev/restex)
-A library used in testing to generate API documentation
 
 #### utils/[templated-mail-sender](https://git.bubblev.org/bubblev/templated-mail-sender)
 A library used to send emails based on templates
@@ -66,4 +62,3 @@ Bubble documentation.
 
 ## [bubble-docs](https://git.bubblev.org/bubblev/bubble-docs)
 Contains various documentation about the Bubble project.
-
