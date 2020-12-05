@@ -1,5 +1,9 @@
 # Bubble Version History
 
+## Adventure 1.5.0 -- 2020 Dec 6
+Adventure - Release Candidate 6
+Smaller and more stable
+
 ## Adventure 1.4.48 -- 2020 Dec 4
 Adventure - Release Candidate 5
 Adds OpenAPI support, automatic API reference documentation, a much smaller jar file and automatic updates
