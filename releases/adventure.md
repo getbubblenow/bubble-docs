@@ -1,5 +1,5 @@
 # Adventure
-#### version 1.5.5
+#### version 1.5.6
 Come join us on a great adventure!
 
 *Released: December 2020*
