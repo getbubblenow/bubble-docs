@@ -1,5 +1,13 @@
 # Bubble Version History
 
+## Adventure 1.5.4 -- 2020 Dec 11
+Adventure - Release Candidate 8
+Vagrant dev setup, docker compute, doc updates
+
+## Adventure 1.5.2 -- 2020 Dec 6
+Adventure - Release Candidate 7
+Docker deploy, updates to web UI and API docs
+
 ## Adventure 1.5.0 -- 2020 Dec 6
 Adventure - Release Candidate 6
 Smaller and more stable
