@@ -1,6 +1,6 @@
 # Bubble Version History
 
-## Adventure 1.5.8 -- 2020 Dec 28
+## Adventure 1.5.9 -- 2020 Dec 30
 Adventure - First Official Release
 
 ## Adventure 1.5.6 -- 2020 Dec 11
